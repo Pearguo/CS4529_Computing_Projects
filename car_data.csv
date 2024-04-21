@@ -1,0 +1,967 @@
+Car_name,Id,Drive,Body_type,Transmission,Engine(Litres),Power,Predicted_fuel_economy,Official_WLTP_mpg,Year,OfficialCO2,FuelType,ManufacturerName,ModelName
+ Mazda Mazda6 Estate Manual 2.0 ,16702,FWD,Estate,Manual,2.0,145 bhp,"37.1 mpg
+7.6 litres/100km",41.5 mpg,2020,155,Petrol,Mazda,Mazda6
+ Mazda Mazda6 Estate Manual 2.0 ,16705,FWD,Estate,Manual,2.0,165 bhp,"37.6 mpg
+7.5 litres/100km",41.5 mpg,2020,155,Petrol,Mazda,Mazda6
+ Mazda Mazda6 Estate Automatic 2.5 ,16708,FWD,Estate,Automatic,2.5,194 bhp,"33.6 mpg
+8.4 litres/100km",37.2 mpg,2020,172,Petrol,Mazda,Mazda6
+ Mazda Mazda6 Estate Manual 2.2 ,16711,FWD,Estate,Manual,2.2,150 bhp,"49.3 mpg
+5.7 litres/100km",53.3 mpg,2020,141,Diesel,Mazda,Mazda6
+ Mazda Mazda6 Estate Automatic 2.2 ,16714,FWD,Estate,Automatic,2.2,184 bhp,"46.5 mpg
+6.1 litres/100km",47.1 mpg,2020,155,Diesel,Mazda,Mazda6
+ Mazda Mazda6 Estate Manual 2.2 ,16717,FWD,Estate,Manual,2.2,184 bhp,"46.5 mpg
+6.1 litres/100km",51.4 mpg,2020,144,Diesel,Mazda,Mazda6
+ Mercedes-Benz CClass Estate Automatic 2.0 ,21632,4WD,Estate,Automatic,2.0,255 bhp,"30.5 mpg
+9.3 litres/100km",35.8 mpg,2020,179,Petrol,Mercedes-Benz,C Class
+ Mercedes-Benz CClass Estate Automatic 1.6 ,18734,RWD,Estate,Automatic,1.6,160 bhp,"49.3 mpg
+5.7 litres/100km",51.4 mpg,2020,144,Diesel,Mercedes-Benz,C Class
+ Mercedes-Benz CClass Estate Manual 1.6 ,18735,RWD,Estate,Manual,1.6,160 bhp,"49.3 mpg
+5.7 litres/100km",55.4 mpg,2020,135,Diesel,Mercedes-Benz,C Class
+ Mercedes-Benz CClass Estate Automatic 2.0 ,18736,RWD,Estate,Automatic,2.0,194 bhp,"48.9 mpg
+5.8 litres/100km",49.6 mpg,2020,148,Diesel,Mercedes-Benz,C Class
+ Mercedes-Benz CClass Estate Automatic 2.0 ,18737,4WD,Estate,Automatic,2.0,194 bhp,"44.6 mpg
+6.3 litres/100km",47.1 mpg,2020,159,Diesel,Mercedes-Benz,C Class
+ Mercedes-Benz CClass Estate Automatic 2.0 ,18738,RWD,Estate,Automatic,2.0,245 bhp,"45.6 mpg
+6.2 litres/100km",47.9 mpg,2020,156,Diesel,Mercedes-Benz,C Class
+ Mercedes-Benz CClass Estate Automatic 2.0 ,18739,4WD,Estate,Automatic,2.0,245 bhp,"44.0 mpg
+6.4 litres/100km",46.3 mpg,2020,159,Diesel,Mercedes-Benz,C Class
+ Mercedes-Benz CClass Estate Automatic 1.6 ,18740,RWD,Estate,Automatic,1.6,156 bhp,"35.6 mpg
+7.9 litres/100km",37.2 mpg,2020,173,Petrol,Mercedes-Benz,C Class
+ Mercedes-Benz CClass Estate Manual 1.6 ,18741,RWD,Estate,Manual,1.6,156 bhp,"35.6 mpg
+7.9 litres/100km",39.8 mpg,2020,161,Petrol,Mercedes-Benz,C Class
+ Mercedes-Benz CClass Estate Automatic 1.5 ,18742,RWD,Estate,Automatic,1.5,198 bhp,"36.3 mpg
+7.8 litres/100km",39.8 mpg,2020,162,Petrol,Mercedes-Benz,C Class
+ Mercedes-Benz CClass Estate Automatic 2.0 ,18743,RWD,Estate,Automatic,2.0,258 bhp,"33.6 mpg
+8.4 litres/100km",38.2 mpg,2020,167,Petrol,Mercedes-Benz,C Class
+ Mercedes-Benz CClass Estate Automatic 1.5 ,18744,4WD,Estate,Automatic,1.5,198 bhp,"34.1 mpg
+8.3 litres/100km",38.2 mpg,2020,168,Petrol,Mercedes-Benz,C Class
+ Mercedes-Benz CClass Estate Automatic 3.0 ,18745,4WD,Estate,Automatic,3.0,390 bhp,"27.7 mpg
+10.2 litres/100km",28.3 mpg,2020,228,Petrol,Mercedes-Benz,C Class
+ Mercedes-Benz EClass Estate Automatic 2.0 ,18430,RWD,Estate,Automatic,2.0,194 bhp,"42.5 mpg
+6.6 litres/100km",47.1 mpg,2020,158,Diesel,Mercedes-Benz,E Class
+ Mercedes-Benz EClass Estate Automatic 2.0 ,18431,4WD,Estate,Automatic,2.0,194 bhp,"41.6 mpg
+6.8 litres/100km",44.1 mpg,2020,168,Diesel,Mercedes-Benz,E Class
+ Mercedes-Benz EClass Estate Automatic 2.9 ,18432,RWD,Estate,Automatic,2.9,286 bhp,"40.0 mpg
+7.1 litres/100km",41.5 mpg,2020,177,Diesel,Mercedes-Benz,E Class
+ Mercedes-Benz EClass Estate Automatic 2.9 ,18433,4WD,Estate,Automatic,2.9,340 bhp,"36.5 mpg
+7.7 litres/100km",38.7 mpg,2020,192,Diesel,Mercedes-Benz,E Class
+ Mercedes-Benz EClass Estate Automatic 2.0 ,18434,RWD,Estate,Automatic,2.0,184 bhp,"29.9 mpg
+9.4 litres/100km",35.3 mpg,2020,182,Petrol,Mercedes-Benz,E Class
+ Mercedes-Benz EClass Estate Automatic 3.0 ,18435,4WD,Estate,Automatic,3.0,457 bhp,"24.6 mpg
+11.5 litres/100km",30.1 mpg,2020,213,Petrol,Mercedes-Benz,E Class
+ Mercedes-Benz EClass Estate Automatic 2.0 ,19554,RWD,Estate,Automatic,2.0,245 bhp,"40.7 mpg
+6.9 litres/100km",42.2 mpg,2020,177,Diesel,Mercedes-Benz,E Class
+ Peugeot 508 Estate Automatic 1.5 ,19297,FWD,Estate,Automatic,1.5,131 bhp,"53.5 mpg
+5.3 litres/100km",62.0 mpg,2020,127,Diesel,Peugeot,508
+ Peugeot 508 Estate Manual 1.5 ,19298,FWD,Estate,Manual,1.5,131 bhp,"53.5 mpg
+5.3 litres/100km",63.6 mpg,2020,124,Diesel,Peugeot,508
+ Peugeot 508 Estate Automatic 2.0 ,19299,FWD,Estate,Automatic,2.0,163 bhp,"46.5 mpg
+6.1 litres/100km",52.9 mpg,2020,148,Diesel,Peugeot,508
+ Peugeot 508 Estate Automatic 1.6 ,19300,FWD,Estate,Automatic,1.6,181 bhp,"38.9 mpg
+7.3 litres/100km",44.0 mpg,2020,149,Petrol,Peugeot,508
+ Peugeot 508 Estate Automatic 2.0 ,19301,FWD,Estate,Automatic,2.0,177 bhp,"46.2 mpg
+6.1 litres/100km",50.3 mpg,2020,154,Diesel,Peugeot,508
+ Peugeot 508 Estate Automatic 1.6 ,19302,FWD,Estate,Automatic,1.6,227 bhp,"37.8 mpg
+7.5 litres/100km",42.2 mpg,2020,158,Petrol,Peugeot,508
+ Peugeot 508 Estate Automatic 1.2 ,20945,FWD,Estate,Automatic,1.2,131 bhp,"40.7 mpg
+6.9 litres/100km",49.1 mpg,2020,137,Petrol,Peugeot,508
+ Peugeot 308 Estate Manual 1.2 ,19284,FWD,Estate,Manual,1.2,110 bhp,"43.6 mpg
+6.5 litres/100km",51.5 mpg,2020,131,Petrol,Peugeot,308
+ Peugeot 308 Estate Automatic 1.2 ,19285,FWD,Estate,Automatic,1.2,131 bhp,"42.5 mpg
+6.6 litres/100km",48.5 mpg,2020,138,Petrol,Peugeot,308
+ Peugeot 308 Estate Manual 1.2 ,19286,FWD,Estate,Manual,1.2,131 bhp,"42.5 mpg
+6.6 litres/100km",51.9 mpg,2020,132,Petrol,Peugeot,308
+ Peugeot 308 Estate Manual 1.5 ,19287,FWD,Estate,Manual,1.5,102 bhp,"51.7 mpg
+5.5 litres/100km",64.6 mpg,2020,120,Diesel,Peugeot,308
+ Peugeot 308 Estate Manual 1.5 ,19288,FWD,Estate,Manual,1.5,131 bhp,"49.9 mpg
+5.7 litres/100km",62.7 mpg,2020,124,Diesel,Peugeot,308
+ Peugeot 308 Estate Automatic 1.5 ,19289,FWD,Estate,Automatic,1.5,131 bhp,"49.9 mpg
+5.7 litres/100km",62.1 mpg,2020,126,Diesel,Peugeot,308
+ Peugeot 308 Estate Automatic 2.0 ,19290,FWD,Estate,Automatic,2.0,177 bhp,"48.9 mpg
+5.8 litres/100km",52.5 mpg,2020,161,Diesel,Peugeot,308
+ Porsche Panamera Estate Automatic 2.9 ,18496,4WD,Estate,Automatic,2.9,330 bhp,"23.8 mpg
+11.9 litres/100km",25.9 mpg,2020,248,Petrol,Porsche,Panamera
+ Porsche Panamera Estate Automatic 2.9 ,19069,4WD,Estate,Automatic,2.9,440 bhp,"22.7 mpg
+12.4 litres/100km",24.8 mpg,2020,258,Petrol,Porsche,Panamera
+ Renault Megane Estate Manual 1.3 ,20122,FWD,Estate,Manual,1.3,140 bhp,"37.8 mpg
+7.5 litres/100km",44.8 mpg,2020,142,Petrol,Renault,Megane
+ Renault Megane Estate Automatic 1.3 ,20124,FWD,Estate,Automatic,1.3,140 bhp,"37.8 mpg
+7.5 litres/100km",45.6 mpg,2020,141,Petrol,Renault,Megane
+ Renault Megane Estate Manual 1.5 ,20126,FWD,Estate,Manual,1.5,115 bhp,"52.4 mpg
+5.4 litres/100km",62.8 mpg,2020,119,Diesel,Renault,Megane
+ Renault Megane Estate Automatic 1.5 ,20127,FWD,Estate,Automatic,1.5,115 bhp,"52.4 mpg
+5.4 litres/100km",60.1 mpg,2020,122,Diesel,Renault,Megane
+ SEAT Leon Estate Manual 1.6 ,17098,FWD,Estate,Manual,1.6,115 bhp,"47.1 mpg
+6.0 litres/100km",57.6 mpg,2020,127,Diesel,SEAT,Leon
+ SEAT Leon Estate Automatic 1.6 ,17100,FWD,Estate,Automatic,1.6,115 bhp,"47.1 mpg
+6.0 litres/100km",57.6 mpg,2020,136,Diesel,SEAT,Leon
+ SEAT Leon Estate Manual 2.0 ,17103,FWD,Estate,Manual,2.0,150 bhp,"50.6 mpg
+5.6 litres/100km",55.4 mpg,2020,133,Diesel,SEAT,Leon
+ SEAT Leon Estate Automatic 2.0 ,18340,FWD,Estate,Automatic,2.0,150 bhp,"50.6 mpg
+5.6 litres/100km",55.4 mpg,2020,136,Diesel,SEAT,Leon
+ SEAT Leon Estate Manual 1.0 ,18868,FWD,Estate,Manual,1.0,115 bhp,"42.5 mpg
+6.6 litres/100km",52.3 mpg,2020,123,Petrol,SEAT,Leon
+ SEAT Leon Estate Manual 1.5 ,18869,FWD,Estate,Manual,1.5,130 bhp,"41.2 mpg
+6.9 litres/100km",51.4 mpg,2020,126,Petrol,SEAT,Leon
+ SEAT Leon Estate Manual 1.5 ,18870,FWD,Estate,Manual,1.5,150 bhp,"40.5 mpg
+7.0 litres/100km",48.7 mpg,2020,131,Petrol,SEAT,Leon
+ SEAT Leon Estate Automatic 1.5 ,18871,FWD,Estate,Automatic,1.5,150 bhp,"40.5 mpg
+7.0 litres/100km",45.6 mpg,2020,141,Petrol,SEAT,Leon
+ SEAT Leon Estate Automatic 2.0 ,18872,4WD,Estate,Automatic,2.0,300 bhp,"30.0 mpg
+9.4 litres/100km",33.6 mpg,2020,189,Petrol,SEAT,Leon
+ Skoda Fabia Estate Manual 1.0 ,19545,FWD,Estate,Manual,1.0,110 bhp,"42.5 mpg
+6.6 litres/100km",52.3 mpg,2020,123,Petrol,Skoda,Fabia
+ Skoda Fabia Estate Manual 1.0 ,18845,FWD,Estate,Manual,1.0,95 bhp,"43.6 mpg
+6.5 litres/100km",52.3 mpg,2020,122,Petrol,Skoda,Fabia
+ Skoda Superb Estate Manual 1.5 ,18893,FWD,Estate,Manual,1.5,150 bhp,"38.2 mpg
+7.4 litres/100km",43.5 mpg,2020,147,Petrol,Skoda,Superb
+ Skoda Superb Estate Automatic 1.5 ,18894,FWD,Estate,Automatic,1.5,150 bhp,"38.2 mpg
+7.4 litres/100km",42.2 mpg,2020,152,Petrol,Skoda,Superb
+ Skoda Superb Estate Automatic 2.0 ,18895,FWD,Estate,Automatic,2.0,190 bhp,"34.3 mpg
+8.2 litres/100km",38.2 mpg,2020,168,Petrol,Skoda,Superb
+ Skoda Superb Estate Automatic 2.0 ,18896,4WD,Estate,Automatic,2.0,272 bhp,"29.8 mpg
+9.5 litres/100km",32.5 mpg,2020,197,Petrol,Skoda,Superb
+ Skoda Octavia Estate Automatic 2.0 ,18835,FWD,Estate,Automatic,2.0,245 bhp,"33.6 mpg
+8.4 litres/100km",36.7 mpg,2020,174,Petrol,Skoda,Octavia
+ Skoda Octavia Estate Manual 1.0 ,18836,FWD,Estate,Manual,1.0,115 bhp,"43.3 mpg
+6.5 litres/100km",50.4 mpg,2020,126,Petrol,Skoda,Octavia
+ Skoda Octavia Estate Manual 1.5 ,18837,FWD,Estate,Manual,1.5,150 bhp,"43.9 mpg
+6.4 litres/100km",51.4 mpg,2020,126,Petrol,Skoda,Octavia
+ Skoda Octavia Estate Automatic 1.5 ,18838,FWD,Estate,Automatic,1.5,150 bhp,"43.9 mpg
+6.4 litres/100km",45.6 mpg,2020,144,Petrol,Skoda,Octavia
+ Skoda Octavia Estate Automatic 2.0 ,18839,4WD,Estate,Automatic,2.0,190 bhp,"32.0 mpg
+8.8 litres/100km",35.8 mpg,2020,178,Petrol,Skoda,Octavia
+ Vauxhall Insignia Estate Manual 1.6 ,19112,FWD,Estate,Manual,1.6,110 bhp,"48.3 mpg
+5.8 litres/100km",57.7 mpg,2020,111,Diesel,Vauxhall,Insignia
+ Vauxhall Insignia Estate Automatic 1.6 ,19113,FWD,Estate,Automatic,1.6,136 bhp,"47.1 mpg
+6.0 litres/100km",51.4 mpg,2020,123,Diesel,Vauxhall,Insignia
+ Vauxhall Insignia Estate Manual 1.6 ,19114,FWD,Estate,Manual,1.6,136 bhp,"47.1 mpg
+6.0 litres/100km",57.7 mpg,2020,112,Diesel,Vauxhall,Insignia
+ Vauxhall Insignia Estate Manual 2.0 ,19119,FWD,Estate,Manual,2.0,170 bhp,"45.9 mpg
+6.2 litres/100km",53.3 mpg,2020,141,Diesel,Vauxhall,Insignia
+ Vauxhall Insignia Estate Automatic 2.0 ,19120,FWD,Estate,Automatic,2.0,170 bhp,"45.9 mpg
+6.2 litres/100km",49.6 mpg,2020,148,Diesel,Vauxhall,Insignia
+ Vauxhall Insignia Estate Manual 1.5 ,19121,FWD,Estate,Manual,1.5,165 bhp,"36.7 mpg
+7.7 litres/100km",46.3 mpg,2020,123,Petrol,Vauxhall,Insignia
+ Vauxhall Insignia Estate Automatic 2.0 ,19122,4WD,Estate,Automatic,2.0,210 bhp,"35.6 mpg
+7.9 litres/100km",37.7 mpg,2020,187,Diesel,Vauxhall,Insignia
+ Vauxhall Astra Estate Manual 1.2 ,19103,FWD,Estate,Manual,1.2,110 bhp,"41.5 mpg
+6.8 litres/100km",53.3 mpg,2020,102,Petrol,Vauxhall,Astra
+ Vauxhall Astra Estate Manual 1.5 ,19104,FWD,Estate,Manual,1.5,105 bhp,"53.5 mpg
+5.3 litres/100km",65.7 mpg,2020,90,Diesel,Vauxhall,Astra
+ Vauxhall Astra Estate Manual 1.2 ,19105,FWD,Estate,Manual,1.2,130 bhp,"41.2 mpg
+6.9 litres/100km",53.3 mpg,2020,102,Petrol,Vauxhall,Astra
+ Vauxhall Astra Estate Manual 1.5 ,19106,FWD,Estate,Manual,1.5,122 bhp,"52.4 mpg
+5.4 litres/100km",64.2 mpg,2020,92,Diesel,Vauxhall,Astra
+ Vauxhall Astra Estate Manual 1.2 ,19108,FWD,Estate,Manual,1.2,145 bhp,"41.0 mpg
+6.9 litres/100km",53.3 mpg,2020,102,Petrol,Vauxhall,Astra
+ Vauxhall Astra Estate Automatic 1.3 ,19109,FWD,Estate,Automatic,1.3,145 bhp,"40.0 mpg
+7.1 litres/100km",48.7 mpg,2020,134,Petrol,Vauxhall,Astra
+ Audi A4 Estate Automatic 2.0 ,18681,4WD,Estate,Automatic,2.0,245 bhp,"32.0 mpg
+8.8 litres/100km",35.3 mpg,2020,181,Petrol,Audi,A4
+ Audi A4 Estate Automatic 2.0 ,18682,4WD,Estate,Automatic,2.0,190 bhp,"40.4 mpg
+7.0 litres/100km",44.1 mpg,2020,168,Diesel,Audi,A4
+ Audi A4 Estate Automatic 3.0 ,18683,4WD,Estate,Automatic,3.0,286 bhp,"37.6 mpg
+7.5 litres/100km",38.2 mpg,2020,194,Diesel,Audi,A4
+ Audi A4 Estate Manual 2.0 ,18684,FWD,Estate,Manual,2.0,150 bhp,"35.8 mpg
+7.9 litres/100km",41.5 mpg,2020,154,Petrol,Audi,A4
+ Audi A4 Estate Automatic 2.0 ,18685,FWD,Estate,Automatic,2.0,150 bhp,"35.8 mpg
+7.9 litres/100km",41.5 mpg,2020,154,Petrol,Audi,A4
+ Audi A4 Estate Automatic 2.0 ,18686,FWD,Estate,Automatic,2.0,163 bhp,"44.6 mpg
+6.3 litres/100km",54.3 mpg,2020,137,Diesel,Audi,A4
+ Audi A4 Estate Automatic 2.0 ,18687,FWD,Estate,Automatic,2.0,136 bhp,"44.8 mpg
+6.3 litres/100km",54.3 mpg,2020,137,Diesel,Audi,A4
+ Audi A4 Estate Automatic 2.0 ,18689,FWD,Estate,Automatic,2.0,190 bhp,"35.2 mpg
+8.0 litres/100km",38.2 mpg,2020,167,Petrol,Audi,A4
+ Audi A4 Estate Automatic 3.0 ,18691,4WD,Estate,Automatic,3.0,347 bhp,"35.9 mpg
+7.9 litres/100km",39.8 mpg,2020,186,Diesel,Audi,A4
+ Audi A4 Estate Automatic 2.9 ,19613,4WD,Estate,Automatic,2.9,450 bhp,"25.8 mpg
+10.9 litres/100km",29.1 mpg,2020,220,Petrol,Audi,A4
+ Audi A6 Estate Automatic 3.0 ,18998,4WD,Estate,Automatic,3.0,231 bhp,"31.5 mpg
+9.0 litres/100km",37.7 mpg,2020,195,Diesel,Audi,A6
+ Audi A6 Estate Automatic 3.0 ,18616,4WD,Estate,Automatic,3.0,349 bhp,"33.1 mpg
+8.5 litres/100km",35.8 mpg,2020,207,Diesel,Audi,A6
+ Audi A6 Estate Automatic 2.0 ,18617,FWD,Estate,Automatic,2.0,204 bhp,"44.0 mpg
+6.4 litres/100km",48.7 mpg,2020,151,Diesel,Audi,A6
+ Audi A6 Estate Automatic 3.0 ,18618,4WD,Estate,Automatic,3.0,286 bhp,"34.9 mpg
+8.1 litres/100km",39.2 mpg,2020,188,Diesel,Audi,A6
+ Audi A6 Estate Automatic 2.0 ,18619,4WD,Estate,Automatic,2.0,204 bhp,"38.8 mpg
+7.3 litres/100km",46.3 mpg,2020,160,Diesel,Audi,A6
+ Audi A6 Estate Automatic 2.0 ,18620,4WD,Estate,Automatic,2.0,245 bhp,"30.6 mpg
+9.2 litres/100km",34.4 mpg,2020,187,Petrol,Audi,A6
+ Audi A6 Estate Automatic 3.0 ,18621,4WD,Estate,Automatic,3.0,340 bhp,"27.6 mpg
+10.2 litres/100km",30.7 mpg,2020,209,Petrol,Audi,A6
+ BMW 5Series Estate Automatic 2.0 ,19481,RWD,Estate,Automatic,2.0,184 bhp,"34.0 mpg
+8.3 litres/100km",39.2 mpg,2020,164,Petrol,BMW,5 Series
+ BMW 5Series Estate Automatic 2.0 ,19482,RWD,Estate,Automatic,2.0,252 bhp,"33.5 mpg
+8.4 litres/100km",38.7 mpg,2020,165,Petrol,BMW,5 Series
+ BMW 5Series Estate Automatic 3.0 ,19483,4WD,Estate,Automatic,3.0,340 bhp,"26.0 mpg
+10.9 litres/100km",33.2 mpg,2020,194,Petrol,BMW,5 Series
+ BMW 5Series Estate Automatic 2.0 ,19484,RWD,Estate,Automatic,2.0,190 bhp,"46.8 mpg
+6.0 litres/100km",53.3 mpg,2020,114,Diesel MHEV,BMW,5 Series
+ BMW 5Series Estate Automatic 3.0 ,19485,RWD,Estate,Automatic,3.0,265 bhp,"39.8 mpg
+7.1 litres/100km",46.3 mpg,2020,160,Diesel,BMW,5 Series
+ BMW 5Series Estate Automatic 3.0 ,19486,4WD,Estate,Automatic,3.0,265 bhp,"36.7 mpg
+7.7 litres/100km",42.2 mpg,2020,175,Diesel,BMW,5 Series
+ BMW 3Series Estate Automatic 2.0 ,19696,RWD,Estate,Automatic,2.0,156 bhp,"32.3 mpg
+8.7 litres/100km",42.2 mpg,2020,152,Petrol,BMW,3 Series
+ BMW 3Series Estate Automatic 3.0 ,20723,4WD,Estate,Automatic,3.0,462 bhp,"22.8 mpg
+12.4 litres/100km",25.9 mpg,2020,247,Petrol,BMW,3 Series
+ BMW 3Series Estate Automatic 2.0 ,19398,RWD,Estate,Automatic,2.0,184 bhp,"32.0 mpg
+8.8 litres/100km",41.5 mpg,2020,154,Petrol,BMW,3 Series
+ BMW 3Series Estate Automatic 2.0 ,19399,RWD,Estate,Automatic,2.0,258 bhp,"31.3 mpg
+9.0 litres/100km",39.8 mpg,2020,160,Petrol,BMW,3 Series
+ BMW 3Series Estate Automatic 3.0 ,19400,4WD,Estate,Automatic,3.0,374 bhp,"25.9 mpg
+10.9 litres/100km",33.6 mpg,2020,191,Petrol,BMW,3 Series
+ BMW 3Series Estate Automatic 2.0 ,19401,RWD,Estate,Automatic,2.0,150 bhp,"49.3 mpg
+5.7 litres/100km",53.3 mpg,2020,139,Diesel,BMW,3 Series
+ BMW 3Series Estate Automatic 2.0 ,19402,RWD,Estate,Automatic,2.0,190 bhp,"48.3 mpg
+5.8 litres/100km",53.3 mpg,2020,139,Diesel,BMW,3 Series
+ BMW 3Series Estate Manual 2.0 ,19403,RWD,Estate,Manual,2.0,190 bhp,"48.3 mpg
+5.8 litres/100km",55.4 mpg,2020,134,Diesel,BMW,3 Series
+ BMW 3Series Estate Automatic 2.0 ,19404,4WD,Estate,Automatic,2.0,190 bhp,"44.0 mpg
+6.4 litres/100km",51.4 mpg,2020,145,Diesel,BMW,3 Series
+ BMW 3Series Estate Automatic 3.0 ,19405,RWD,Estate,Automatic,3.0,265 bhp,"43.0 mpg
+6.6 litres/100km",45.6 mpg,2020,161,Diesel,BMW,3 Series
+ BMW 3Series Estate Automatic 3.0 ,19406,4WD,Estate,Automatic,3.0,265 bhp,"39.8 mpg
+7.1 litres/100km",43.5 mpg,2020,170,Diesel,BMW,3 Series
+ Ford Focus Estate Manual 1.0 ,19521,FWD,Estate,Manual,1.0,100 bhp,"44.8 mpg
+6.3 litres/100km",52.3 mpg,2020,122,Petrol,Ford,Focus
+ Ford Focus Estate Manual 1.0 ,19522,FWD,Estate,Manual,1.0,125 bhp,"41.2 mpg
+6.9 litres/100km",51.4 mpg,2020,127,Petrol,Ford,Focus
+ Ford Focus Estate Automatic 1.0 ,19523,FWD,Estate,Automatic,1.0,125 bhp,"41.2 mpg
+6.9 litres/100km",47.9 mpg,2020,137,Petrol,Ford,Focus
+ Ford Focus Estate Manual 1.5 ,19524,FWD,Estate,Manual,1.5,95 bhp,"53.9 mpg
+5.2 litres/100km",62.8 mpg,2020,121,Diesel,Ford,Focus
+ Ford Focus Estate Manual 1.5 ,19525,FWD,Estate,Manual,1.5,120 bhp,"52.4 mpg
+5.4 litres/100km",62.8 mpg,2020,120,Diesel,Ford,Focus
+ Ford Focus Estate Automatic 1.5 ,19526,FWD,Estate,Automatic,1.5,120 bhp,"52.4 mpg
+5.4 litres/100km",58.9 mpg,2020,127,Diesel,Ford,Focus
+ Ford Focus Estate Manual 1.5 ,19531,FWD,Estate,Manual,1.5,150 bhp,"34.1 mpg
+8.3 litres/100km",47.1 mpg,2020,136,Petrol,Ford,Focus
+ Ford Focus Estate Automatic 1.5 ,19532,FWD,Estate,Automatic,1.5,150 bhp,"34.1 mpg
+8.3 litres/100km",43.5 mpg,2020,146,Petrol,Ford,Focus
+ Ford Focus Estate Manual 2.0 ,19533,FWD,Estate,Manual,2.0,150 bhp,"46.8 mpg
+6.0 litres/100km",57.6 mpg,2020,127,Diesel,Ford,Focus
+ Ford Focus Estate Automatic 2.0 ,19534,FWD,Estate,Automatic,2.0,150 bhp,"46.8 mpg
+6.0 litres/100km",56.5 mpg,2020,132,Diesel,Ford,Focus
+ Ford Focus Estate Manual 1.5 ,19537,FWD,Estate,Manual,1.5,182 bhp,"33.6 mpg
+8.4 litres/100km",45.6 mpg,2020,140,Petrol,Ford,Focus
+ Ford Focus Estate Automatic 1.5 ,19538,FWD,Estate,Automatic,1.5,182 bhp,"33.6 mpg
+8.4 litres/100km",43.5 mpg,2020,148,Petrol,Ford,Focus
+ Ford Focus Estate Manual 2.3 ,19542,FWD,Estate,Manual,2.3,280 bhp,"31.4 mpg
+9.0 litres/100km",50.4 mpg,2020,187,Petrol,Ford,Focus
+ Ford Focus Estate Automatic 2.3 ,19543,FWD,Estate,Automatic,2.3,280 bhp,"31.4 mpg
+9.0 litres/100km",34.4 mpg,2020,188,Petrol,Ford,Focus
+ Ford Focus Estate Manual 2.0 ,19544,FWD,Estate,Manual,2.0,190 bhp,"42.3 mpg
+6.7 litres/100km",34.4 mpg,2020,148,Diesel,Ford,Focus
+ Ford Focus Estate Manual 1.0 ,19850,FWD,Estate,Manual,1.0,155 bhp,"44.8 mpg
+6.3 litres/100km",52.3 mpg,2020,121,Petrol,Ford,Focus
+ Ford Mondeo Estate Manual 2.0 ,19580,FWD,Estate,Manual,2.0,150 bhp,"41.8 mpg
+6.8 litres/100km",53.3 mpg,2020,139,Diesel,Ford,Mondeo
+ Ford Mondeo Estate Automatic 2.0 ,19581,FWD,Estate,Automatic,2.0,150 bhp,"41.8 mpg
+6.8 litres/100km",49.6 mpg,2020,149,Diesel,Ford,Mondeo
+ Ford Mondeo Estate Automatic 2.0 ,19583,FWD,Estate,Automatic,2.0,190 bhp,"40.2 mpg
+7.0 litres/100km",48.7 mpg,2020,152,Diesel,Ford,Mondeo
+ Ford Mondeo Estate Automatic 2.0 ,19585,4WD,Estate,Automatic,2.0,190 bhp,"36.7 mpg
+7.7 litres/100km",47.1 mpg,2020,158,Diesel,Ford,Mondeo
+ Hyundai i30 Estate Manual 1.0 ,19022,FWD,Estate,Manual,1.0,120 bhp,"39.5 mpg
+7.2 litres/100km",49.6 mpg,2020,130,Petrol,Hyundai,i30
+ Hyundai i30 Estate Manual 1.6 ,19023,FWD,Estate,Manual,1.6,115 bhp,"53.5 mpg
+5.3 litres/100km",60.1 mpg,2020,127,Diesel,Hyundai,i30
+ Hyundai i30 Estate Manual 1.4 ,19024,FWD,Estate,Manual,1.4,140 bhp,"40.2 mpg
+7.0 litres/100km",45.6 mpg,2020,142,Petrol,Hyundai,i30
+ Hyundai i30 Estate Automatic 1.6 ,19025,FWD,Estate,Automatic,1.6,136 bhp,"51.3 mpg
+5.5 litres/100km",57.6 mpg,2020,128,Diesel,Hyundai,i30
+ Hyundai i30 Estate Automatic 1.4 ,19026,FWD,Estate,Automatic,1.4,140 bhp,"40.2 mpg
+7.0 litres/100km",46.3 mpg,2020,138,Petrol,Hyundai,i30
+ Jaguar XF Estate Manual 2.0 ,18263,RWD,Estate,Manual,2.0,163 bhp,"42.3 mpg
+6.7 litres/100km",47.3 mpg,2020,154,Diesel,Jaguar,XF
+ Jaguar XF Estate Automatic 2.0 ,18264,RWD,Estate,Automatic,2.0,163 bhp,"42.3 mpg
+6.7 litres/100km",48.2 mpg,2020,154,Diesel,Jaguar,XF
+ Jaguar XF Estate Automatic 2.0 ,18265,RWD,Estate,Automatic,2.0,180 bhp,"41.3 mpg
+6.8 litres/100km",48.4 mpg,2020,154,Diesel,Jaguar,XF
+ Jaguar XF Estate Automatic 2.0 ,18266,4WD,Estate,Automatic,2.0,180 bhp,"37.6 mpg
+7.5 litres/100km",43.1 mpg,2020,173,Diesel,Jaguar,XF
+ Jaguar XF Estate Automatic 2.0 ,18267,4WD,Estate,Automatic,2.0,240 bhp,"36.3 mpg
+7.8 litres/100km",41.5 mpg,2020,185,Diesel,Jaguar,XF
+ Jaguar XF Estate Automatic 3.0 ,18268,RWD,Estate,Automatic,3.0,300 bhp,"37.2 mpg
+7.6 litres/100km",42.1 mpg,2020,173,Diesel,Jaguar,XF
+ Jaguar XF Estate Automatic 2.0 ,18269,RWD,Estate,Automatic,2.0,250 bhp,"30.3 mpg
+9.3 litres/100km",33.3 mpg,2020,195,Petrol,Jaguar,XF
+ Jaguar XF Estate Automatic 2.0 ,18270,4WD,Estate,Automatic,2.0,300 bhp,"28.4 mpg
+9.9 litres/100km",31.0 mpg,2020,207,Petrol,Jaguar,XF
+ Kia Ceed Estate Manual 1.0 ,19167,FWD,Estate,Manual,1.0,120 bhp,"41.7 mpg
+6.8 litres/100km",49.6 mpg,2020,130,Petrol,Kia,Ceed
+ Kia Ceed Estate Manual 1.6 ,19168,FWD,Estate,Manual,1.6,116 bhp,"50.3 mpg
+5.6 litres/100km",60.1 mpg,2020,123,Diesel,Kia,Ceed
+ Kia Ceed Estate Automatic 1.6 ,19169,FWD,Estate,Automatic,1.6,116 bhp,"50.3 mpg
+5.6 litres/100km",56.5 mpg,2020,131,Diesel,Kia,Ceed
+ Kia Ceed Estate Manual 1.4 ,19170,FWD,Estate,Manual,1.4,140 bhp,"39.1 mpg
+7.2 litres/100km",45.6 mpg,2020,141,Petrol,Kia,Ceed
+ Kia Ceed Estate Automatic 1.4 ,19171,FWD,Estate,Automatic,1.4,140 bhp,"39.1 mpg
+7.2 litres/100km",44.8 mpg,2020,143,Petrol,Kia,Ceed
+ Kia Ceed Estate Manual 1.6 ,19321,FWD,Estate,Manual,1.6,136 bhp,"48.6 mpg
+5.8 litres/100km",56.5 mpg,2020,131,Diesel,Kia,Ceed
+ Kia Ceed Estate Automatic 1.6 ,19322,FWD,Estate,Automatic,1.6,136 bhp,"48.6 mpg
+5.8 litres/100km",54.3 mpg,2020,136,Diesel,Kia,Ceed
+ Kia Ceed Estate Automatic 1.6 ,19323,FWD,Estate,Automatic,1.6,204 bhp,"34.8 mpg
+8.1 litres/100km",39.3 mpg,2020,163,Petrol,Kia,Ceed
+ Volvo V60 Estate Manual 2.0 ,18287,FWD,Estate,Manual,2.0,150 bhp,"43.3 mpg
+6.5 litres/100km",55.4 mpg,2020,141,Diesel,Volvo,V60
+ Volvo V60 Estate Automatic 2.0 ,18288,FWD,Estate,Automatic,2.0,150 bhp,"43.3 mpg
+6.5 litres/100km",51.4 mpg,2020,150,Diesel,Volvo,V60
+ Volvo V60 Estate Manual 2.0 ,18289,FWD,Estate,Manual,2.0,190 bhp,"42.5 mpg
+6.6 litres/100km",52.2 mpg,2020,141,Diesel,Volvo,V60
+ Volvo V60 Estate Automatic 2.0 ,18290,FWD,Estate,Automatic,2.0,190 bhp,"42.5 mpg
+6.6 litres/100km",47.9 mpg,2020,148,Diesel,Volvo,V60
+ Volvo V60 Estate Automatic 2.0 ,18291,FWD,Estate,Automatic,2.0,190 bhp,"28.2 mpg
+10.0 litres/100km",37.1 mpg,2020,173,Petrol,Volvo,V60
+ Volvo V60 Estate Automatic 2.0 ,18292,FWD,Estate,Automatic,2.0,250 bhp,"27.5 mpg
+10.3 litres/100km",36.6 mpg,2020,174,Petrol,Volvo,V60
+ Volvo V60 Estate Automatic 2.0 ,18293,4WD,Estate,Automatic,2.0,190 bhp,"37.4 mpg
+7.6 litres/100km",47.9 mpg,2020,157,Diesel,Volvo,V60
+ Volvo V60 Estate Automatic 2.0 ,18294,4WD,Estate,Automatic,2.0,250 bhp,"24.1 mpg
+11.7 litres/100km",34.8 mpg,2020,185,Petrol,Volvo,V60
+ Volkswagen Passat Estate Automatic 1.6 ,18702,FWD,Estate,Automatic,1.6,120 bhp,"46.8 mpg
+6.0 litres/100km",48.7 mpg,2020,151,Diesel,Volkswagen,Passat
+ Volkswagen Passat Estate Manual 2.0 ,18703,FWD,Estate,Manual,2.0,150 bhp,"49.6 mpg
+5.7 litres/100km",57.6 mpg,2020,128,Diesel,Volkswagen,Passat
+ Volkswagen Passat Estate Manual 1.5 ,18704,FWD,Estate,Manual,1.5,150 bhp,"40.0 mpg
+7.1 litres/100km",45.6 mpg,2020,141,Petrol,Volkswagen,Passat
+ Volkswagen Passat Estate Automatic 1.5 ,18705,FWD,Estate,Automatic,1.5,150 bhp,"40.0 mpg
+7.1 litres/100km",42.8 mpg,2020,150,Petrol,Volkswagen,Passat
+ Volkswagen Passat Estate Automatic 2.0 ,18706,FWD,Estate,Automatic,2.0,150 bhp,"49.6 mpg
+5.7 litres/100km",55.4 mpg,2020,135,Diesel,Volkswagen,Passat
+ Volkswagen Passat Estate Automatic 2.0 ,18707,FWD,Estate,Automatic,2.0,190 bhp,"46.5 mpg
+6.1 litres/100km",47.9 mpg,2020,155,Diesel,Volkswagen,Passat
+ Volkswagen Passat Estate Automatic 2.0 ,18708,FWD,Estate,Automatic,2.0,190 bhp,"32.8 mpg
+8.6 litres/100km",35.8 mpg,2020,178,Petrol,Volkswagen,Passat
+ Volkswagen Passat Estate Automatic 2.0 ,18709,4WD,Estate,Automatic,2.0,190 bhp,"43.5 mpg
+6.5 litres/100km",45.6 mpg,2020,163,Diesel,Volkswagen,Passat
+ Volkswagen Passat Estate Automatic 2.0 ,18710,4WD,Estate,Automatic,2.0,240 bhp,"36.3 mpg
+7.8 litres/100km",38.2 mpg,2020,193,Diesel,Volkswagen,Passat
+ Volkswagen Passat Estate Automatic 2.0 ,18711,4WD,Estate,Automatic,2.0,272 bhp,"29.6 mpg
+9.5 litres/100km",33.2 mpg,2020,199,Petrol,Volkswagen,Passat
+ Volkswagen Golf Estate Manual 1.6 ,18673,FWD,Estate,Manual,1.6,115 bhp,"52.8 mpg
+5.3 litres/100km",56.5 mpg,2020,132,Diesel,Volkswagen,Golf
+ Volkswagen Golf Estate Manual 1.0 ,18674,FWD,Estate,Manual,1.0,115 bhp,"42.8 mpg
+6.6 litres/100km",49.6 mpg,2020,129,Petrol,Volkswagen,Golf
+ Volkswagen Golf Estate Manual 1.5 ,18675,FWD,Estate,Manual,1.5,130 bhp,"44.2 mpg
+6.4 litres/100km",50.4 mpg,2020,116,Petrol,Volkswagen,Golf
+ Volkswagen Golf Estate Automatic 2.0 ,18676,FWD,Estate,Automatic,2.0,150 bhp,"45.1 mpg
+6.3 litres/100km",53.3 mpg,2020,115,Diesel,Volkswagen,Golf
+ Volkswagen Golf Estate Manual 2.0 ,18677,FWD,Estate,Manual,2.0,150 bhp,"45.1 mpg
+6.3 litres/100km",54.3 mpg,2020,114,Diesel,Volkswagen,Golf
+ Volkswagen Golf Estate Manual 1.5 ,18678,FWD,Estate,Manual,1.5,150 bhp,"42.0 mpg
+6.7 litres/100km",49.6 mpg,2020,117,Petrol,Volkswagen,Golf
+ Volkswagen Golf Estate Automatic 1.5 ,18679,FWD,Estate,Automatic,1.5,150 bhp,"42.0 mpg
+6.7 litres/100km",44.8 mpg,2020,116,Petrol,Volkswagen,Golf
+ Volkswagen Golf Estate Automatic 2.0 ,18680,4WD,Estate,Automatic,2.0,300 bhp,"29.4 mpg
+9.6 litres/100km",32.8 mpg,2020,194,Petrol,Volkswagen,Golf
+ Volkswagen Golf Estate Automatic 2.0 ,18688,4WD,Estate,Automatic,2.0,184 bhp,"42.5 mpg
+6.6 litres/100km",44.8 mpg,2020,165,Diesel,Volkswagen,Golf
+ Kia Optima Estate Manual 1.6 ,19189,FWD,Estate,Manual,1.6,136 bhp,"46.5 mpg
+6.1 litres/100km",51.4 mpg,2020,143,Diesel,Kia,Optima
+ Kia Optima Estate Automatic 1.6 ,19190,FWD,Estate,Automatic,1.6,136 bhp,"46.5 mpg
+6.1 litres/100km",52.3 mpg,2020,140,Diesel,Kia,Optima
+ Kia Optima Estate Automatic 2.0 ,19191,FWD,Estate,Automatic,2.0,238 bhp,"27.3 mpg
+10.3 litres/100km",30.4 mpg,2020,211,Petrol,Kia,Optima
+ Hyundai i40 Estate Automatic 1.6 ,17842,FWD,Estate,Automatic,1.6,136 bhp,"48.6 mpg
+5.8 litres/100km",53.3 mpg,2020,138,Diesel,Hyundai,i40
+ Hyundai i40 Estate Manual 1.6 ,17844,FWD,Estate,Manual,1.6,136 bhp,"48.6 mpg
+5.8 litres/100km",53.3 mpg,2020,140,Diesel,Hyundai,i40
+ Hyundai i40 Estate Manual 1.6 ,17846,FWD,Estate,Manual,1.6,115 bhp,"50.3 mpg
+5.6 litres/100km",54.3 mpg,2020,136,Diesel,Hyundai,i40
+ Hyundai i40 Estate Manual 1.6 ,17848,FWD,Estate,Manual,1.6,135 bhp,"34.5 mpg
+8.2 litres/100km",38.2 mpg,2020,168,Petrol,Hyundai,i40
+ MINI Clubman Estate Manual 1.5 ,19745,FWD,Estate,Manual,1.5,136 bhp,"38.2 mpg
+7.4 litres/100km",44.8 mpg,2020,143,Petrol,MINI,Clubman
+ MINI Clubman Estate Automatic 1.5 ,19746,FWD,Estate,Automatic,1.5,136 bhp,"38.2 mpg
+7.4 litres/100km",43.5 mpg,2020,148,Petrol,MINI,Clubman
+ MINI Clubman Estate Manual 2.0 ,19747,FWD,Estate,Manual,2.0,192 bhp,"36.0 mpg
+7.8 litres/100km",40.9 mpg,2020,156,Petrol,MINI,Clubman
+ MINI Clubman Estate Automatic 2.0 ,19748,FWD,Estate,Automatic,2.0,192 bhp,"36.0 mpg
+7.8 litres/100km",42.2 mpg,2020,151,Petrol,MINI,Clubman
+ MINI Clubman Estate Automatic 2.0 ,19749,4WD,Estate,Automatic,2.0,306 bhp,"29.9 mpg
+9.4 litres/100km",33.6 mpg,2020,192,Petrol,MINI,Clubman
+ Mercedes-Benz CLA Estate Automatic 2.0 ,18927,FWD,Estate,Automatic,2.0,190 bhp,"35.8 mpg
+7.9 litres/100km",39.8 mpg,2020,161,Petrol,Mercedes-Benz,CLA
+ Mercedes-Benz CLA Estate Automatic 2.0 ,18928,FWD,Estate,Automatic,2.0,190 bhp,"48.9 mpg
+5.8 litres/100km",55.4 mpg,2020,135,Diesel,Mercedes-Benz,CLA
+ Mercedes-Benz CLA Estate Automatic 2.0 ,18929,FWD,Estate,Automatic,2.0,224 bhp,"36.3 mpg
+7.8 litres/100km",39.8 mpg,2020,161,Petrol,Mercedes-Benz,CLA
+ Mercedes-Benz CLA Estate Automatic 1.3 ,18930,FWD,Estate,Automatic,1.3,136 bhp,"38.9 mpg
+7.3 litres/100km",44.8 mpg,2020,144,Petrol,Mercedes-Benz,CLA
+ Mercedes-Benz CLA Estate Automatic 1.3 ,18931,FWD,Estate,Automatic,1.3,163 bhp,"38.2 mpg
+7.4 litres/100km",44.8 mpg,2020,144,Petrol,Mercedes-Benz,CLA
+ Mercedes-Benz CLA Estate Automatic 2.0 ,18932,4WD,Estate,Automatic,2.0,306 bhp,"31.9 mpg
+8.9 litres/100km",35.8 mpg,2020,178,Petrol,Mercedes-Benz,CLA
+ Mercedes-Benz CLA Estate Automatic 2.0 ,19262,4WD,Estate,Automatic,2.0,421 bhp,"29.9 mpg
+9.4 litres/100km",34.0 mpg,2020,191,Petrol,Mercedes-Benz,CLA
+ Mercedes-Benz CLA Estate Automatic 2.1 ,19678,FWD,Estate,Automatic,2.1,150 bhp,"48.0 mpg
+5.9 litres/100km",65.69 mpg,2020,114,Diesel,Mercedes-Benz,CLA
+ Mercedes-Benz CLA Estate Manual 1.5 ,20824,FWD,Estate,Manual,1.5,116 bhp,"53.9 mpg
+5.2 litres/100km",57.7 mpg,2020,128,Diesel,Mercedes-Benz,CLA
+ Dacia Logan Estate Manual 1.0 ,16942,FWD,Estate,Manual,1.0,75 bhp,"37.3 mpg
+7.6 litres/100km",48.7 mpg,2020,134,Petrol,Dacia,Logan
+ Dacia Logan Estate Manual 0.9 ,19609,FWD,Estate,Manual,0.9,90 bhp,"29.5 mpg
+9.6 litres/100km",44.3 mpg,2020,139,Petrol,Dacia,Logan
+ Dacia Logan Estate Manual 1.5 ,19610,FWD,Estate,Manual,1.5,95 bhp,"52.4 mpg
+5.4 litres/100km",60.1 mpg,2020,124,Diesel,Dacia,Logan
+ Subaru Outback Estate Automatic 2.5 ,18244,4WD,Estate,Automatic,2.5,175 bhp,"27.3 mpg
+10.3 litres/100km",33.0 mpg,2020,193,Petrol,Subaru,Outback
+ Subaru Levorg Estate Automatic 2.0 ,18389,4WD,Estate,Automatic,2.0,150 bhp,"29.3 mpg
+9.6 litres/100km",32.62 mpg,2020,196,Petrol,Subaru,Levorg
+ Volvo V90 Estate Automatic 2.0 ,18299,FWD,Estate,Automatic,2.0,190 bhp,"43.3 mpg
+6.5 litres/100km",47.8 mpg,2020,156,Diesel,Volvo,V90
+ Volvo V90 Estate Automatic 2.0 ,18300,FWD,Estate,Automatic,2.0,190 bhp,"29.3 mpg
+9.6 litres/100km",36.6 mpg,2020,175,Petrol,Volvo,V90
+ Volvo V90 Estate Automatic 2.0 ,18301,4WD,Estate,Automatic,2.0,235 bhp,"38.4 mpg
+7.4 litres/100km",43.5 mpg,2020,146,Diesel,Volvo,V90
+ Volvo V90 Estate Automatic 2.0 ,18302,FWD,Estate,Automatic,2.0,250 bhp,"28.6 mpg
+9.9 litres/100km",36.6 mpg,2020,176,Petrol,Volvo,V90
+ Volvo V90 Estate Automatic 2.0 ,18303,4WD,Estate,Automatic,2.0,310 bhp,"24.3 mpg
+11.6 litres/100km",32.1 mpg,2020,201,Petrol,Volvo,V90
+ Volvo V90 Estate Automatic 2.0 ,18304,4WD,Estate,Automatic,2.0,190 bhp,"39.0 mpg
+7.2 litres/100km",41.5 mpg,2020,177,Diesel,Volvo,V90
+ Volvo V90 Estate Automatic 2.0 ,18305,4WD,Estate,Automatic,2.0,250 bhp,"24.9 mpg
+11.3 litres/100km",31.7 mpg,2020,202,Petrol,Volvo,V90
+ Fiat Tipo Estate Manual 1.4 ,19590,FWD,Estate,Manual,1.4,95 bhp,"36.9 mpg
+7.7 litres/100km",41.5 mpg,2020,158,Petrol,Fiat,Tipo
+ Fiat Tipo Estate Manual 1.4 ,19592,FWD,Estate,Manual,1.4,122 bhp,"34.7 mpg
+8.1 litres/100km",39.2 mpg,2020,162,Petrol,Fiat,Tipo
+ Mazda Mazda6 Estate Manual 2.2 ,16712,FWD,Estate,Manual,2.2,150 bhp,"49.3 mpg
+5.7 litres/100km",53.3 mpg,2021,141,Diesel,Mazda,Mazda6
+ Mazda Mazda6 Estate Automatic 2.2 ,16715,FWD,Estate,Automatic,2.2,184 bhp,"46.5 mpg
+6.1 litres/100km",47.1 mpg,2021,155,Diesel,Mazda,Mazda6
+ Mazda Mazda6 Estate Manual 2.2 ,16718,FWD,Estate,Manual,2.2,184 bhp,"46.5 mpg
+6.1 litres/100km",51.4 mpg,2021,144,Diesel,Mazda,Mazda6
+ Mazda Mazda6 Estate Manual 2.0 ,20750,FWD,Estate,Manual,2.0,145 bhp,"37.1 mpg
+7.6 litres/100km",41.5 mpg,2021,155,Petrol,Mazda,Mazda6
+ Mazda Mazda6 Estate Manual 2.0 ,20752,FWD,Estate,Manual,2.0,165 bhp,"37.6 mpg
+7.5 litres/100km",41.5 mpg,2021,155,Petrol,Mazda,Mazda6
+ Mazda Mazda6 Estate Automatic 2.5 ,20754,FWD,Estate,Automatic,2.5,194 bhp,"33.6 mpg
+8.4 litres/100km",37.2 mpg,2021,172,Petrol,Mazda,Mazda6
+ Mercedes-Benz CClass Estate Automatic 1.5 ,19596,RWD,Estate,Automatic,1.5,198 bhp,"35.4 mpg
+8.0 litres/100km",41.5 mpg,2021,164,Petrol,Mercedes-Benz,C Class
+ Mercedes-Benz CClass Estate Automatic 2.0 ,20225,RWD,Estate,Automatic,2.0,194 bhp,"48.9 mpg
+5.8 litres/100km",54.3 mpg,2021,137,Diesel,Mercedes-Benz,C Class
+ Mercedes-Benz CClass Estate Automatic 2.0 ,20226,RWD,Estate,Automatic,2.0,245 bhp,"44.8 mpg
+6.3 litres/100km",49.6 mpg,2021,149,Diesel,Mercedes-Benz,C Class
+ Mercedes-Benz CClass Estate Automatic 2.0 ,20227,4WD,Estate,Automatic,2.0,245 bhp,"43.3 mpg
+6.5 litres/100km",47.9 mpg,2021,155,Diesel,Mercedes-Benz,C Class
+ Mercedes-Benz CClass Estate Automatic 2.0 ,20228,RWD,Estate,Automatic,2.0,272 bhp,"33.0 mpg
+8.6 litres/100km",38.7 mpg,2021,166,Petrol,Mercedes-Benz,C Class
+ Mercedes-Benz CClass Estate Automatic 3.0 ,20229,4WD,Estate,Automatic,3.0,390 bhp,"28.0 mpg
+10.1 litres/100km",28.5 mpg,2021,226,Petrol,Mercedes-Benz,C Class
+ Mercedes-Benz EClass Estate Automatic 2.0 ,20194,RWD,Estate,Automatic,2.0,194 bhp,"46.2 mpg
+6.1 litres/100km",50.4 mpg,2021,148,Diesel,Mercedes-Benz,E Class
+ Mercedes-Benz EClass Estate Automatic 2.9 ,20195,4WD,Estate,Automatic,2.9,330 bhp,"37.4 mpg
+7.6 litres/100km",40.9 mpg,2021,181,Diesel,Mercedes-Benz,E Class
+ Mercedes-Benz EClass Estate Automatic 2.0 ,20196,RWD,Estate,Automatic,2.0,211 bhp,"34.0 mpg
+8.3 litres/100km",37.2 mpg,2021,174,Petrol,Mercedes-Benz,E Class
+ Mercedes-Benz EClass Estate Automatic 3.0 ,20197,4WD,Estate,Automatic,3.0,457 bhp,"25.2 mpg
+11.2 litres/100km",29.4 mpg,2021,216,Petrol,Mercedes-Benz,E Class
+ Peugeot 508 Estate Automatic 1.5 ,20650,FWD,Estate,Automatic,1.5,131 bhp,"52.8 mpg
+5.3 litres/100km",62.0 mpg,2021,123,Diesel,Peugeot,508
+ Peugeot 508 Estate Automatic 1.2 ,20651,FWD,Estate,Automatic,1.2,131 bhp,"41.2 mpg
+6.9 litres/100km",49.1 mpg,2021,136,Petrol,Peugeot,508
+ Peugeot 508 Estate Automatic 1.6 ,20652,FWD,Estate,Automatic,1.6,181 bhp,"39.3 mpg
+7.2 litres/100km",44.0 mpg,2021,148,Petrol,Peugeot,508
+ Peugeot 508 Estate Automatic 1.6 ,20653,FWD,Estate,Automatic,1.6,227 bhp,"37.8 mpg
+7.5 litres/100km",42.2 mpg,2021,160,Petrol,Peugeot,508
+ Peugeot 308 Estate Manual 1.2 ,20183,FWD,Estate,Manual,1.2,110 bhp,"45.4 mpg
+6.2 litres/100km",51.5 mpg,2021,134,Petrol,Peugeot,308
+ Peugeot 308 Estate Manual 1.5 ,20184,FWD,Estate,Manual,1.5,131 bhp,"49.6 mpg
+5.7 litres/100km",62.7 mpg,2021,122,Diesel,Peugeot,308
+ Peugeot 308 Estate Manual 1.2 ,20185,FWD,Estate,Manual,1.2,131 bhp,"43.1 mpg
+6.6 litres/100km",51.9 mpg,2021,134,Petrol,Peugeot,308
+ Peugeot 308 Estate Automatic 1.2 ,20186,FWD,Estate,Automatic,1.2,131 bhp,"43.1 mpg
+6.6 litres/100km",48.5 mpg,2021,140,Petrol,Peugeot,308
+ Peugeot 308 Estate Automatic 1.5 ,20187,FWD,Estate,Automatic,1.5,131 bhp,"49.6 mpg
+5.7 litres/100km",62.1 mpg,2021,125,Diesel,Peugeot,308
+ Porsche Panamera Estate Automatic 2.9 ,20345,4WD,Estate,Automatic,2.9,330 bhp,"24.1 mpg
+11.7 litres/100km",26.4 mpg,2021,242,Petrol,Porsche,Panamera
+ Porsche Panamera Estate Automatic 2.9 ,20633,4WD,Estate,Automatic,2.9,440 bhp,"24.2 mpg
+11.7 litres/100km",26.4 mpg,2021,242,Petrol,Porsche,Panamera
+ Renault Megane Estate Manual 1.3 ,20123,FWD,Estate,Manual,1.3,140 bhp,"37.8 mpg
+7.5 litres/100km",44.8 mpg,2021,142,Petrol,Renault,Megane
+ Renault Megane Estate Automatic 1.3 ,20125,FWD,Estate,Automatic,1.3,140 bhp,"37.8 mpg
+7.5 litres/100km",45.6 mpg,2021,141,Petrol,Renault,Megane
+ Renault Megane Estate Manual 1.3 ,20414,FWD,Estate,Manual,1.3,140 bhp,"37.1 mpg
+7.6 litres/100km",47.9 mpg,2021,133,Petrol,Renault,Megane
+ Renault Megane Estate Automatic 1.3 ,20415,FWD,Estate,Automatic,1.3,140 bhp,"37.1 mpg
+7.6 litres/100km",47.1 mpg,2021,135,Petrol,Renault,Megane
+ Renault Megane Estate Manual 1.5 ,20416,FWD,Estate,Manual,1.5,115 bhp,"48.6 mpg
+5.8 litres/100km",60.1 mpg,2021,123,Diesel,Renault,Megane
+ Renault Megane Estate Automatic 1.5 ,20417,FWD,Estate,Automatic,1.5,115 bhp,"48.6 mpg
+5.8 litres/100km",60.1 mpg,2021,123,Diesel,Renault,Megane
+ SEAT Leon Estate Manual 1.0 ,19925,FWD,Estate,Manual,1.0,110 bhp,"43.1 mpg
+6.6 litres/100km",51.4 mpg,2021,126,Petrol,SEAT,Leon
+ SEAT Leon Estate Manual 1.5 ,19926,FWD,Estate,Manual,1.5,130 bhp,"41.7 mpg
+6.8 litres/100km",51.4 mpg,2021,124,Petrol,SEAT,Leon
+ SEAT Leon Estate Manual 1.5 ,19928,FWD,Estate,Manual,1.5,150 bhp,"41.5 mpg
+6.8 litres/100km",47.9 mpg,2021,133,Petrol,SEAT,Leon
+ SEAT Leon Estate Manual 2.0 ,19930,FWD,Estate,Manual,2.0,115 bhp,"51.7 mpg
+5.5 litres/100km",65.7 mpg,2021,114,Diesel,SEAT,Leon
+ Skoda Fabia Estate Manual 1.0 ,20151,FWD,Estate,Manual,1.0,95 bhp,"43.1 mpg
+6.6 litres/100km",52.3 mpg,2021,122,Petrol,Skoda,Fabia
+ Skoda Fabia Estate Manual 1.0 ,20152,FWD,Estate,Manual,1.0,110 bhp,"42.5 mpg
+6.6 litres/100km",52.3 mpg,2021,123,Petrol,Skoda,Fabia
+ Skoda Fabia Estate Automatic 1.0 ,20337,FWD,Estate,Automatic,1.0,95 bhp,"43.1 mpg
+6.6 litres/100km",49.6 mpg,2021,129,Petrol,Skoda,Fabia
+ Skoda Superb Estate Automatic 2.0 ,20712,4WD,Estate,Automatic,2.0,280 bhp,"30.3 mpg
+9.3 litres/100km",33.2 mpg,2021,194,Petrol,Skoda,Superb
+ Skoda Superb Estate Manual 1.5 ,20136,FWD,Estate,Manual,1.5,150 bhp,"38.9 mpg
+7.3 litres/100km",43.5 mpg,2021,146,Petrol,Skoda,Superb
+ Skoda Superb Estate Automatic 1.5 ,20137,FWD,Estate,Automatic,1.5,150 bhp,"38.9 mpg
+7.3 litres/100km",42.2 mpg,2021,152,Petrol,Skoda,Superb
+ Skoda Superb Estate Automatic 2.0 ,20138,FWD,Estate,Automatic,2.0,190 bhp,"35.6 mpg
+7.9 litres/100km",38.2 mpg,2021,168,Petrol,Skoda,Superb
+ Skoda Superb Estate Automatic 2.0 ,20139,4WD,Estate,Automatic,2.0,272 bhp,"29.8 mpg
+9.5 litres/100km",32.5 mpg,2021,197,Petrol,Skoda,Superb
+ Skoda Octavia Estate Manual 2.0 ,20714,FWD,Estate,Manual,2.0,245 bhp,"36.3 mpg
+7.8 litres/100km",40.4 mpg,2021,159,Petrol,Skoda,Octavia
+ Skoda Octavia Estate Manual 1.0 ,20160,FWD,Estate,Manual,1.0,110 bhp,"45.7 mpg
+6.2 litres/100km",53.3 mpg,2021,119,Petrol,Skoda,Octavia
+ Skoda Octavia Estate Manual 1.5 ,20162,FWD,Estate,Manual,1.5,150 bhp,"45.4 mpg
+6.2 litres/100km",49.6 mpg,2021,126,Petrol,Skoda,Octavia
+ Skoda Octavia Estate Automatic 2.0 ,20596,FWD,Estate,Automatic,2.0,245 bhp,"36.3 mpg
+7.8 litres/100km",40.4 mpg,2021,159,Petrol,Skoda,Octavia
+ Vauxhall Astra Estate Manual 1.2 ,20260,FWD,Estate,Manual,1.2,110 bhp,"42.3 mpg
+6.7 litres/100km",54.3 mpg,2021,119,Petrol,Vauxhall,Astra
+ Vauxhall Astra Estate Manual 1.5 ,20261,FWD,Estate,Manual,1.5,105 bhp,"53.9 mpg
+5.2 litres/100km",65.7 mpg,2021,114,Diesel,Vauxhall,Astra
+ Vauxhall Astra Estate Manual 1.2 ,20262,FWD,Estate,Manual,1.2,130 bhp,"42.0 mpg
+6.7 litres/100km",53.3 mpg,2021,119,Petrol,Vauxhall,Astra
+ Vauxhall Astra Estate Manual 1.5 ,20263,FWD,Estate,Manual,1.5,122 bhp,"52.4 mpg
+5.4 litres/100km",64.2 mpg,2021,116,Diesel,Vauxhall,Astra
+ Vauxhall Astra Estate Manual 1.2 ,20264,FWD,Estate,Manual,1.2,145 bhp,"42.0 mpg
+6.7 litres/100km",54.3 mpg,2021,119,Petrol,Vauxhall,Astra
+ Vauxhall Astra Estate Automatic 1.3 ,20265,FWD,Estate,Automatic,1.3,145 bhp,"40.5 mpg
+7.0 litres/100km",49.6 mpg,2021,129,Petrol,Vauxhall,Astra
+ Vauxhall Astra Estate Automatic 1.5 ,20266,FWD,Estate,Automatic,1.5,122 bhp,"52.4 mpg
+5.4 litres/100km",55.4 mpg,2021,133,Diesel,Vauxhall,Astra
+ Audi A4 Estate Manual 2.0 ,20039,FWD,Estate,Manual,2.0,150 bhp,"37.3 mpg
+7.6 litres/100km",41.5 mpg,2021,154,Petrol,Audi,A4
+ Audi A4 Estate Automatic 2.0 ,20040,FWD,Estate,Automatic,2.0,150 bhp,"37.3 mpg
+7.6 litres/100km",41.5 mpg,2021,154,Petrol,Audi,A4
+ Audi A4 Estate Automatic 2.0 ,20041,FWD,Estate,Automatic,2.0,163 bhp,"44.8 mpg
+6.3 litres/100km",54.3 mpg,2021,137,Diesel,Audi,A4
+ Audi A4 Estate Automatic 2.0 ,20042,FWD,Estate,Automatic,2.0,136 bhp,"45.4 mpg
+6.2 litres/100km",54.3 mpg,2021,137,Diesel,Audi,A4
+ Audi A4 Estate Automatic 2.9 ,20043,4WD,Estate,Automatic,2.9,450 bhp,"25.5 mpg
+11.1 litres/100km",29.1 mpg,2021,220,Petrol,Audi,A4
+ Audi A4 Estate Automatic 2.0 ,20044,4WD,Estate,Automatic,2.0,190 bhp,"40.7 mpg
+6.9 litres/100km",47.9 mpg,2021,156,Diesel,Audi,A4
+ Audi A4 Estate Automatic 2.0 ,20045,FWD,Estate,Automatic,2.0,190 bhp,"35.4 mpg
+8.0 litres/100km",40.9 mpg,2021,156,Petrol,Audi,A4
+ Audi A4 Estate Automatic 2.0 ,20046,4WD,Estate,Automatic,2.0,245 bhp,"32.0 mpg
+8.8 litres/100km",35.3 mpg,2021,180,Petrol,Audi,A4
+ Audi A4 Estate Automatic 3.0 ,20047,4WD,Estate,Automatic,3.0,347 bhp,"36.3 mpg
+7.8 litres/100km",39.2 mpg,2021,187,Diesel,Audi,A4
+ Audi A4 Estate Automatic 3.0 ,20048,4WD,Estate,Automatic,3.0,286 bhp,"37.6 mpg
+7.5 litres/100km",38.2 mpg,2021,194,Diesel,Audi,A4
+ Audi A4 Estate Automatic 2.0 ,20276,4WD,Estate,Automatic,2.0,204 bhp,"40.4 mpg
+7.0 litres/100km",54.3 mpg,2021,137,Diesel,Audi,A4
+ Audi A4 Estate Automatic 2.0 ,20277,FWD,Estate,Automatic,2.0,204 bhp,"37.3 mpg
+7.6 litres/100km",44.8 mpg,2021,143,Petrol,Audi,A4
+ Audi A4 Estate Automatic 2.0 ,20279,4WD,Estate,Automatic,2.0,265 bhp,"30.7 mpg
+9.2 litres/100km",34.0 mpg,2021,189,Petrol,Audi,A4
+ Audi A4 Estate Automatic 3.0 ,20717,4WD,Estate,Automatic,3.0,341 bhp,"36.3 mpg
+7.8 litres/100km",38.7 mpg,2021,191,Diesel,Audi,A4
+ Audi A6 Estate Automatic 2.0 ,20606,FWD,Estate,Automatic,2.0,204 bhp,"34.1 mpg
+8.3 litres/100km",38.2 mpg,2021,168,Petrol,Audi,A6
+ Audi A6 Estate Automatic 3.0 ,20684,4WD,Estate,Automatic,3.0,344 bhp,"33.7 mpg
+8.4 litres/100km",39.2 mpg,2021,189,Diesel,Audi,A6
+ Audi A6 Estate Automatic 3.0 ,20705,4WD,Estate,Automatic,3.0,245 bhp,"35.6 mpg
+7.9 litres/100km",41.9 mpg,2021,176,Diesel,Audi,A6
+ Audi A6 Estate Automatic 2.0 ,20071,FWD,Estate,Automatic,2.0,204 bhp,"44.6 mpg
+6.3 litres/100km",48.7 mpg,2021,151,Diesel,Audi,A6
+ Audi A6 Estate Automatic 3.0 ,20072,4WD,Estate,Automatic,3.0,286 bhp,"35.8 mpg
+7.9 litres/100km",39.2 mpg,2021,187,Diesel,Audi,A6
+ Audi A6 Estate Automatic 2.0 ,20073,4WD,Estate,Automatic,2.0,204 bhp,"40.0 mpg
+7.1 litres/100km",46.3 mpg,2021,160,Diesel,Audi,A6
+ Audi A6 Estate Automatic 2.0 ,20074,4WD,Estate,Automatic,2.0,245 bhp,"30.6 mpg
+9.2 litres/100km",34.4 mpg,2021,186,Petrol,Audi,A6
+ Audi A6 Estate Automatic 3.0 ,20075,4WD,Estate,Automatic,3.0,340 bhp,"28.9 mpg
+9.8 litres/100km",30.7 mpg,2021,209,Petrol,Audi,A6
+ Audi A6 Estate Automatic 3.0 ,20076,4WD,Estate,Automatic,3.0,349 bhp,"33.5 mpg
+8.4 litres/100km",35.8 mpg,2021,206,Diesel,Audi,A6
+ Audi A6 Estate Automatic 3.0 ,20077,4WD,Estate,Automatic,3.0,231 bhp,"31.9 mpg
+8.9 litres/100km",38.2 mpg,2021,194,Diesel,Audi,A6
+ Audi A6 Estate Automatic 2.0 ,20239,4WD,Estate,Automatic,2.0,265 bhp,"32.2 mpg
+8.8 litres/100km",36.2 mpg,2021,178,Petrol,Audi,A6
+ BMW 3Series Estate Automatic 2.0 ,20502,RWD,Estate,Automatic,2.0,156 bhp,"33.1 mpg
+8.5 litres/100km",42.2 mpg,2021,152,Petrol,BMW,3 Series
+ BMW 3Series Estate Automatic 2.0 ,20503,RWD,Estate,Automatic,2.0,184 bhp,"32.8 mpg
+8.6 litres/100km",42.2 mpg,2021,152,Petrol,BMW,3 Series
+ BMW 3Series Estate Automatic 2.0 ,20504,RWD,Estate,Automatic,2.0,258 bhp,"32.0 mpg
+8.8 litres/100km",40.9 mpg,2021,156,Petrol,BMW,3 Series
+ BMW 3Series Estate Automatic 3.0 ,20724,4WD,Estate,Automatic,3.0,462 bhp,"22.8 mpg
+12.4 litres/100km",25.9 mpg,2021,247,Petrol,BMW,3 Series
+ Ford Focus Estate Manual 1.0 ,20358,FWD,Estate,Manual,1.0,125 bhp,"42.8 mpg
+6.6 litres/100km",50.4 mpg,2021,127,Petrol,Ford,Focus
+ Ford Focus Estate Automatic 1.0 ,20359,FWD,Estate,Automatic,1.0,125 bhp,"42.8 mpg
+6.6 litres/100km",47.1 mpg,2021,137,Petrol,Ford,Focus
+ Ford Focus Estate Manual 1.5 ,20360,FWD,Estate,Manual,1.5,120 bhp,"43.5 mpg
+6.5 litres/100km",65.7 mpg,2021,112,Diesel,Ford,Focus
+ Ford Focus Estate Automatic 1.5 ,20361,FWD,Estate,Automatic,1.5,120 bhp,"43.5 mpg
+6.5 litres/100km",60.1 mpg,2021,122,Diesel,Ford,Focus
+ Ford Focus Estate Manual 1.0 ,20365,FWD,Estate,Manual,1.0,155 bhp,"45.4 mpg
+6.2 litres/100km",52.3 mpg,2021,121,Petrol,Ford,Focus
+ Ford Focus Estate Manual 2.0 ,20366,FWD,Estate,Manual,2.0,150 bhp,"46.5 mpg
+6.1 litres/100km",58.9 mpg,2021,126,Diesel,Ford,Focus
+ Ford Focus Estate Automatic 2.0 ,20367,FWD,Estate,Automatic,2.0,150 bhp,"46.5 mpg
+6.1 litres/100km",56.5 mpg,2021,131,Diesel,Ford,Focus
+ Ford Focus Estate Manual 2.3 ,20371,FWD,Estate,Manual,2.3,280 bhp,"31.3 mpg
+9.0 litres/100km",35.3 mpg,2021,184,Petrol,Ford,Focus
+ Ford Focus Estate Automatic 2.3 ,20372,FWD,Estate,Automatic,2.3,280 bhp,"31.3 mpg
+9.0 litres/100km",34.4 mpg,2021,187,Petrol,Ford,Focus
+ Ford Focus Estate Manual 2.0 ,20373,FWD,Estate,Manual,2.0,190 bhp,"46.5 mpg
+6.1 litres/100km",52.3 mpg,2021,140,Diesel,Ford,Focus
+ Ford Mondeo Estate Manual 2.0 ,20674,FWD,Estate,Manual,2.0,150 bhp,"42.0 mpg
+6.7 litres/100km",55.4 mpg,2021,135,Diesel,Ford,Mondeo
+ Ford Mondeo Estate Automatic 2.0 ,20675,FWD,Estate,Automatic,2.0,150 bhp,"42.0 mpg
+6.7 litres/100km",50.4 mpg,2021,147,Diesel,Ford,Mondeo
+ Ford Mondeo Estate Automatic 2.0 ,20677,FWD,Estate,Automatic,2.0,190 bhp,"40.7 mpg
+6.9 litres/100km",48.7 mpg,2021,152,Diesel,Ford,Mondeo
+ Ford Mondeo Estate Automatic 2.0 ,20679,4WD,Estate,Automatic,2.0,190 bhp,"37.4 mpg
+7.6 litres/100km",45.6 mpg,2021,164,Diesel,Ford,Mondeo
+ Jaguar XF Estate Automatic 2.0 ,20426,4WD,Estate,Automatic,2.0,300 bhp,"27.9 mpg
+10.1 litres/100km",31.2 mpg,2021,204,Petrol,Jaguar,XF
+ Jaguar XF Estate Automatic 2.0 ,20427,RWD,Estate,Automatic,2.0,250 bhp,"29.8 mpg
+9.5 litres/100km",32.3 mpg,2021,197,Petrol,Jaguar,XF
+ Jaguar XF Estate Automatic 2.0 ,20430,RWD,Estate,Automatic,2.0,204 bhp,"41.6 mpg
+6.8 litres/100km",51.4 mpg,2021,144,Diesel,Jaguar,XF
+ Jaguar XF Estate Automatic 2.0 ,20431,4WD,Estate,Automatic,2.0,204 bhp,"38.2 mpg
+7.4 litres/100km",49.1 mpg,2021,151,Diesel,Jaguar,XF
+ Kia Ceed Estate Manual 1.0 ,20798,FWD,Estate,Manual,1.0,120 bhp,"43.9 mpg
+6.4 litres/100km",53.3 mpg,2021,121,Petrol,Kia,Ceed
+ Kia Ceed Estate Manual 1.5 ,20799,FWD,Estate,Manual,1.5,160 bhp,"39.5 mpg
+7.2 litres/100km",48.7 mpg,2021,131,Petrol,Kia,Ceed
+ Kia Ceed Estate Automatic 1.5 ,20800,FWD,Estate,Automatic,1.5,160 bhp,"39.5 mpg
+7.2 litres/100km",47.9 mpg,2021,134,Petrol,Kia,Ceed
+ Kia Ceed Estate Automatic 1.6 ,20814,FWD,Estate,Automatic,1.6,204 bhp,"36.1 mpg
+7.8 litres/100km",41.5 mpg,2021,153,Petrol,Kia,Ceed
+ Volvo V60 Estate Manual 2.0 ,19770,FWD,Estate,Manual,2.0,150 bhp,"43.5 mpg
+6.5 litres/100km",54.3 mpg,2021,138,Diesel,Volvo,V60
+ Volvo V60 Estate Automatic 2.0 ,19771,FWD,Estate,Automatic,2.0,150 bhp,"43.5 mpg
+6.5 litres/100km",50.4 mpg,2021,148,Diesel,Volvo,V60
+ Volvo V60 Estate Automatic 2.0 ,19772,FWD,Estate,Automatic,2.0,190 bhp,"41.6 mpg
+6.8 litres/100km",50.4 mpg,2021,145,Diesel,Volvo,V60
+ Volvo V60 Estate Automatic 2.0 ,19773,4WD,Estate,Automatic,2.0,190 bhp,"37.8 mpg
+7.5 litres/100km",47.1 mpg,2021,157,Diesel,Volvo,V60
+ Volkswagen Passat Estate Manual 1.5 ,19885,FWD,Estate,Manual,1.5,150 bhp,"40.0 mpg
+7.1 litres/100km",45.6 mpg,2021,141,Petrol,Volkswagen,Passat
+ Volkswagen Passat Estate Automatic 1.5 ,19886,FWD,Estate,Automatic,1.5,150 bhp,"40.0 mpg
+7.1 litres/100km",42.8 mpg,2021,149,Petrol,Volkswagen,Passat
+ Volkswagen Passat Estate Automatic 2.0 ,19887,FWD,Estate,Automatic,2.0,122 bhp,"49.9 mpg
+5.7 litres/100km",57.6 mpg,2021,127,Diesel,Volkswagen,Passat
+ Volkswagen Passat Estate Manual 2.0 ,19888,FWD,Estate,Manual,2.0,150 bhp,"51.3 mpg
+5.5 litres/100km",57.6 mpg,2021,128,Diesel,Volkswagen,Passat
+ Volkswagen Passat Estate Automatic 2.0 ,19889,FWD,Estate,Automatic,2.0,150 bhp,"51.3 mpg
+5.5 litres/100km",55.4 mpg,2021,134,Diesel,Volkswagen,Passat
+ Volkswagen Passat Estate Automatic 2.0 ,19890,FWD,Estate,Automatic,2.0,200 bhp,"48.3 mpg
+5.8 litres/100km",52.3 mpg,2021,142,Diesel,Volkswagen,Passat
+ Volkswagen Passat Estate Automatic 2.0 ,20199,FWD,Estate,Automatic,2.0,190 bhp,"46.8 mpg
+6.0 litres/100km",48.7 mpg,2021,152,Diesel,Volkswagen,Passat
+ Volkswagen Golf Estate Manual 1.0 ,20687,FWD,Estate,Manual,1.0,110 bhp,"44.5 mpg
+6.3 litres/100km",51.4 mpg,2021,124,Petrol,Volkswagen,Golf
+ Volkswagen Golf Estate Manual 1.5 ,20688,FWD,Estate,Manual,1.5,130 bhp,"46.3 mpg
+6.1 litres/100km",51.4 mpg,2021,123,Petrol,Volkswagen,Golf
+ Volkswagen Golf Estate Manual 1.5 ,20689,FWD,Estate,Manual,1.5,150 bhp,"44.8 mpg
+6.3 litres/100km",49.6 mpg,2021,128,Petrol,Volkswagen,Golf
+ Volkswagen Golf Estate Automatic 2.0 ,20690,FWD,Estate,Automatic,2.0,115 bhp,"56.8 mpg
+5.0 litres/100km",61.4 mpg,2021,119,Diesel,Volkswagen,Golf
+ Volkswagen Golf Estate Manual 2.0 ,20691,FWD,Estate,Manual,2.0,115 bhp,"56.8 mpg
+5.0 litres/100km",61.4 mpg,2021,119,Diesel,Volkswagen,Golf
+ Volkswagen Golf Estate Manual 2.0 ,20692,FWD,Estate,Manual,2.0,150 bhp,"55.1 mpg
+5.1 litres/100km",61.4 mpg,2021,120,Diesel,Volkswagen,Golf
+ Volkswagen Golf Estate Automatic 2.0 ,20693,FWD,Estate,Automatic,2.0,150 bhp,"55.1 mpg
+5.1 litres/100km",60.1 mpg,2021,123,Diesel,Volkswagen,Golf
+ Volkswagen Golf Estate Automatic 2.0 ,20694,4WD,Estate,Automatic,2.0,200 bhp,"47.1 mpg
+6.0 litres/100km",49.6 mpg,2021,147,Diesel,Volkswagen,Golf
+ MINI Clubman Estate Manual 1.5 ,20452,FWD,Estate,Manual,1.5,136 bhp,"39.5 mpg
+7.2 litres/100km",47.09 mpg,2021,136,Petrol,MINI,Clubman
+ MINI Clubman Estate Automatic 1.5 ,20453,FWD,Estate,Automatic,1.5,136 bhp,"39.5 mpg
+7.2 litres/100km",47.88 mpg,2021,135,Petrol,MINI,Clubman
+ MINI Clubman Estate Manual 2.0 ,20454,FWD,Estate,Manual,2.0,178 bhp,"37.1 mpg
+7.6 litres/100km",42.16 mpg,2021,152,Petrol,MINI,Clubman
+ MINI Clubman Estate Automatic 2.0 ,20455,FWD,Estate,Automatic,2.0,178 bhp,"37.1 mpg
+7.6 litres/100km",45.56 mpg,2021,142,Petrol,MINI,Clubman
+ MINI Clubman Estate Automatic 2.0 ,20456,4WD,Estate,Automatic,2.0,306 bhp,"31.7 mpg
+8.9 litres/100km",36.22 mpg,2021,178,Petrol,MINI,Clubman
+ Mercedes-Benz CLA Estate Automatic 1.3 ,19948,FWD,Estate,Automatic,1.3,136 bhp,"38.9 mpg
+7.3 litres/100km",45.6 mpg,2021,140,Petrol,Mercedes-Benz,CLA
+ Mercedes-Benz CLA Estate Automatic 1.3 ,19949,FWD,Estate,Automatic,1.3,163 bhp,"38.6 mpg
+7.3 litres/100km",45.6 mpg,2021,141,Petrol,Mercedes-Benz,CLA
+ Mercedes-Benz CLA Estate Automatic 2.0 ,19950,4WD,Estate,Automatic,2.0,306 bhp,"31.0 mpg
+9.1 litres/100km",35.3 mpg,2021,183,Petrol,Mercedes-Benz,CLA
+ Mercedes-Benz CLA Estate Automatic 2.0 ,19951,4WD,Estate,Automatic,2.0,421 bhp,"28.3 mpg
+10.0 litres/100km",31.7 mpg,2021,203,Petrol,Mercedes-Benz,CLA
+ Mercedes-Benz CLA Estate Automatic 2.0 ,19952,FWD,Estate,Automatic,2.0,190 bhp,"48.6 mpg
+5.8 litres/100km",55.4 mpg,2021,135,Diesel,Mercedes-Benz,CLA
+ Mercedes-Benz CLA Estate Automatic 2.0 ,19953,FWD,Estate,Automatic,2.0,224 bhp,"36.7 mpg
+7.7 litres/100km",40.9 mpg,2021,157,Petrol,Mercedes-Benz,CLA
+ Subaru Outback Estate Automatic 2.5 ,18245,4WD,Estate,Automatic,2.5,175 bhp,"27.3 mpg
+10.3 litres/100km",33.0 mpg,2021,193,Petrol,Subaru,Outback
+ Subaru Outback Estate Automatic 2.5 ,21219,4WD,Estate,Automatic,2.5,169 bhp,"29.5 mpg
+9.6 litres/100km",33.0 mpg,2021,193,Petrol,Subaru,Outback
+ Subaru Levorg Estate Automatic 2.0 ,18390,4WD,Estate,Automatic,2.0,150 bhp,"29.3 mpg
+9.6 litres/100km",32.62 mpg,2021,196,Petrol,Subaru,Levorg
+ Volvo V90 Estate Automatic 2.0 ,19795,FWD,Estate,Automatic,2.0,190 bhp,"43.5 mpg
+6.5 litres/100km",47.9 mpg,2021,153,Diesel,Volvo,V90
+ Volvo V90 Estate Automatic 2.0 ,19796,4WD,Estate,Automatic,2.0,235 bhp,"38.8 mpg
+7.3 litres/100km",42.2 mpg,2021,175,Diesel,Volvo,V90
+ Volvo V90 Estate Automatic 2.0 ,19797,4WD,Estate,Automatic,2.0,190 bhp,"39.4 mpg
+7.2 litres/100km",43.5 mpg,2021,171,Diesel,Volvo,V90
+ Fiat Tipo Estate Manual 1.4 ,19591,FWD,Estate,Manual,1.4,95 bhp,"36.9 mpg
+7.7 litres/100km",41.5 mpg,2021,158,Petrol,Fiat,Tipo
+ Fiat Tipo Estate Manual 1.4 ,19593,FWD,Estate,Manual,1.4,122 bhp,"34.7 mpg
+8.1 litres/100km",39.2 mpg,2021,162,Petrol,Fiat,Tipo
+ Fiat Tipo Estate Manual 1.0 ,20665,FWD,Estate,Manual,1.0,101 bhp,"43.1 mpg
+6.6 litres/100km",50.4 mpg,2021,127,Petrol,Fiat,Tipo
+ Volkswagen Arteon Estate Manual 1.5 ,20244,FWD,Estate,Manual,1.5,150 bhp,"39.1 mpg
+7.2 litres/100km",43.5 mpg,2021,147,Petrol,Volkswagen,Arteon
+ Volkswagen Arteon Estate Manual 2.0 ,20245,FWD,Estate,Manual,2.0,150 bhp,"47.4 mpg
+6.0 litres/100km",56.5 mpg,2021,131,Diesel,Volkswagen,Arteon
+ Volkswagen Arteon Estate Automatic 2.0 ,20246,FWD,Estate,Automatic,2.0,150 bhp,"47.4 mpg
+6.0 litres/100km",56.5 mpg,2021,130,Diesel,Volkswagen,Arteon
+ Volkswagen Arteon Estate Automatic 2.0 ,20247,FWD,Estate,Automatic,2.0,190 bhp,"34.0 mpg
+8.3 litres/100km",37.2 mpg,2021,171,Petrol,Volkswagen,Arteon
+ Volkswagen Arteon Estate Automatic 2.0 ,20248,FWD,Estate,Automatic,2.0,200 bhp,"45.4 mpg
+6.2 litres/100km",53.3 mpg,2021,138,Diesel,Volkswagen,Arteon
+ Volkswagen Arteon Estate Automatic 2.0 ,20249,4WD,Estate,Automatic,2.0,200 bhp,"41.8 mpg
+6.8 litres/100km",46.3 mpg,2021,160,Diesel,Volkswagen,Arteon
+ Mazda Mazda6 Estate Manual 2.0 ,20751,FWD,Estate,Manual,2.0,145 bhp,"37.1 mpg
+7.6 litres/100km",41.5 mpg,2022,155,Petrol,Mazda,Mazda6
+ Mazda Mazda6 Estate Manual 2.0 ,20753,FWD,Estate,Manual,2.0,165 bhp,"37.6 mpg
+7.5 litres/100km",41.5 mpg,2022,155,Petrol,Mazda,Mazda6
+ Mazda Mazda6 Estate Automatic 2.5 ,20755,FWD,Estate,Automatic,2.5,194 bhp,"33.6 mpg
+8.4 litres/100km",37.2 mpg,2022,172,Petrol,Mazda,Mazda6
+ Mercedes-Benz EClass Estate Automatic 2.0 ,20932,RWD,Estate,Automatic,2.0,194 bhp,"45.9 mpg
+6.2 litres/100km",50.4 mpg,2022,148,Diesel,Mercedes-Benz,E Class
+ Mercedes-Benz EClass Estate Automatic 2.9 ,20933,4WD,Estate,Automatic,2.9,330 bhp,"37.4 mpg
+7.6 litres/100km",40.9 mpg,2022,181,Diesel,Mercedes-Benz,E Class
+ Peugeot 508 Estate Automatic 1.2 ,21463,FWD,Estate,Automatic,1.2,131 bhp,"41.5 mpg
+6.8 litres/100km",49.1 mpg,2022,134,Petrol,Peugeot,508
+ Peugeot 508 Estate Automatic 1.5 ,21464,FWD,Estate,Automatic,1.5,131 bhp,"53.1 mpg
+5.3 litres/100km",62.0 mpg,2022,124,Diesel,Peugeot,508
+ Peugeot 308 Estate Manual 1.2 ,20920,FWD,Estate,Manual,1.2,110 bhp,"45.4 mpg
+6.2 litres/100km",54.9 mpg,2022,126,Petrol,Peugeot,308
+ Peugeot 308 Estate Manual 1.5 ,20921,FWD,Estate,Manual,1.5,131 bhp,"49.6 mpg
+5.7 litres/100km",65.6 mpg,2022,121,Diesel,Peugeot,308
+ Peugeot 308 Estate Manual 1.2 ,20922,FWD,Estate,Manual,1.2,131 bhp,"43.1 mpg
+6.6 litres/100km",53.7 mpg,2022,128,Petrol,Peugeot,308
+ Peugeot 308 Estate Automatic 1.2 ,21373,FWD,Estate,Automatic,1.2,131 bhp,"43.6 mpg
+6.5 litres/100km",52.1 mpg,2022,129,Petrol,Peugeot,308
+ Peugeot 308 Estate Automatic 1.5 ,21374,FWD,Estate,Automatic,1.5,131 bhp,"48.6 mpg
+5.8 litres/100km",65.0 mpg,2022,118,Diesel,Peugeot,308
+ Porsche Panamera Estate Automatic 2.9 ,21281,4WD,Estate,Automatic,2.9,330 bhp,"24.2 mpg
+11.7 litres/100km",26.6 mpg,2022,241,Petrol,Porsche,Panamera
+ Porsche Panamera Estate Automatic 2.9 ,21282,4WD,Estate,Automatic,2.9,440 bhp,"24.3 mpg
+11.6 litres/100km",26.4 mpg,2022,242,Petrol,Porsche,Panamera
+ SEAT Leon Estate Automatic 2.0 ,19927,FWD,Estate,Automatic,2.0,190 bhp,"37.8 mpg
+7.5 litres/100km",42.2 mpg,2022,151,Petrol,SEAT,Leon
+ SEAT Leon Estate Manual 1.0 ,21245,FWD,Estate,Manual,1.0,110 bhp,"42.8 mpg
+6.6 litres/100km",51.4 mpg,2022,126,Petrol,SEAT,Leon
+ SEAT Leon Estate Manual 1.5 ,21246,FWD,Estate,Manual,1.5,130 bhp,"43.1 mpg
+6.6 litres/100km",51.4 mpg,2022,125,Petrol,SEAT,Leon
+ SEAT Leon Estate Manual 2.0 ,21247,FWD,Estate,Manual,2.0,115 bhp,"52.8 mpg
+5.3 litres/100km",65.7 mpg,2022,114,Diesel,SEAT,Leon
+ SEAT Leon Estate Manual 1.5 ,21248,FWD,Estate,Manual,1.5,150 bhp,"42.8 mpg
+6.6 litres/100km",48.7 mpg,2022,132,Petrol,SEAT,Leon
+ SEAT Leon Estate Manual 2.0 ,21634,FWD,Estate,Manual,2.0,150 bhp,"52.4 mpg
+5.4 litres/100km",62.8 mpg,2022,117,Diesel,SEAT,Leon
+ Skoda Fabia Estate Automatic 1.0 ,21216,FWD,Estate,Automatic,1.0,95 bhp,"43.9 mpg
+6.4 litres/100km",48.7 mpg,2022,132,Petrol,Skoda,Fabia
+ Skoda Fabia Estate Manual 1.0 ,21217,FWD,Estate,Manual,1.0,95 bhp,"43.9 mpg
+6.4 litres/100km",51.4 mpg,2022,124,Petrol,Skoda,Fabia
+ Skoda Superb Estate Automatic 2.0 ,21197,4WD,Estate,Automatic,2.0,280 bhp,"30.3 mpg
+9.3 litres/100km",33.2 mpg,2022,193,Petrol,Skoda,Superb
+ Skoda Superb Estate Manual 1.5 ,21186,FWD,Estate,Manual,1.5,150 bhp,"40.0 mpg
+7.1 litres/100km",45.6 mpg,2022,141,Petrol,Skoda,Superb
+ Skoda Superb Estate Automatic 1.5 ,21187,FWD,Estate,Automatic,1.5,150 bhp,"40.0 mpg
+7.1 litres/100km",44.1 mpg,2022,146,Petrol,Skoda,Superb
+ Skoda Superb Estate Automatic 2.0 ,21188,FWD,Estate,Automatic,2.0,190 bhp,"36.9 mpg
+7.7 litres/100km",40.9 mpg,2022,157,Petrol,Skoda,Superb
+ Skoda Octavia Estate Manual 1.0 ,21189,FWD,Estate,Manual,1.0,110 bhp,"45.7 mpg
+6.2 litres/100km",53.3 mpg,2022,119,Petrol,Skoda,Octavia
+ Skoda Octavia Estate Automatic 2.0 ,21190,FWD,Estate,Automatic,2.0,245 bhp,"36.5 mpg
+7.7 litres/100km",40.4 mpg,2022,159,Petrol,Skoda,Octavia
+ Skoda Octavia Estate Manual 1.5 ,21191,FWD,Estate,Manual,1.5,150 bhp,"46.0 mpg
+6.1 litres/100km",50.4 mpg,2022,126,Petrol,Skoda,Octavia
+ Skoda Octavia Estate Manual 2.0 ,21192,FWD,Estate,Manual,2.0,245 bhp,"36.5 mpg
+7.7 litres/100km",40.4 mpg,2022,159,Petrol,Skoda,Octavia
+ Vauxhall Astra Estate Manual 1.2 ,21651,FWD,Estate,Manual,1.2,110 bhp,"42.8 mpg
+6.6 litres/100km",50.5 mpg,2022,126,Petrol,Vauxhall,Astra
+ Vauxhall Astra Estate Manual 1.2 ,21652,FWD,Estate,Manual,1.2,130 bhp,"42.0 mpg
+6.7 litres/100km",50.5 mpg,2022,126,Petrol,Vauxhall,Astra
+ Vauxhall Astra Estate Automatic 1.2 ,21653,FWD,Estate,Automatic,1.2,130 bhp,"42.0 mpg
+6.7 litres/100km",49.5 mpg,2022,128,Petrol,Vauxhall,Astra
+ Vauxhall Astra Estate Manual 1.5 ,21654,FWD,Estate,Manual,1.5,130 bhp,"52.4 mpg
+5.4 litres/100km",64.2 mpg,2022,116,Diesel,Vauxhall,Astra
+ Vauxhall Astra Estate Automatic 1.5 ,21655,FWD,Estate,Automatic,1.5,130 bhp,"52.4 mpg
+5.4 litres/100km",62.8 mpg,2022,119,Diesel,Vauxhall,Astra
+ Audi A4 Estate Automatic 2.0 ,21100,FWD,Estate,Automatic,2.0,136 bhp,"45.6 mpg
+6.2 litres/100km",57.6 mpg,2022,127,Diesel,Audi,A4
+ Audi A4 Estate Manual 2.0 ,21101,FWD,Estate,Manual,2.0,150 bhp,"38.4 mpg
+7.4 litres/100km",44.8 mpg,2022,143,Petrol,Audi,A4
+ Audi A4 Estate Automatic 2.0 ,21102,FWD,Estate,Automatic,2.0,150 bhp,"38.4 mpg
+7.4 litres/100km",44.1 mpg,2022,145,Petrol,Audi,A4
+ Audi A4 Estate Automatic 2.0 ,21103,FWD,Estate,Automatic,2.0,163 bhp,"45.4 mpg
+6.2 litres/100km",57.6 mpg,2022,129,Diesel,Audi,A4
+ Audi A4 Estate Automatic 2.0 ,21112,4WD,Estate,Automatic,2.0,204 bhp,"40.9 mpg
+6.9 litres/100km",51.4 mpg,2022,144,Diesel,Audi,A4
+ Audi A4 Estate Automatic 2.0 ,21113,FWD,Estate,Automatic,2.0,204 bhp,"37.1 mpg
+7.6 litres/100km",43.5 mpg,2022,147,Petrol,Audi,A4
+ Audi A4 Estate Automatic 2.0 ,21114,4WD,Estate,Automatic,2.0,265 bhp,"32.3 mpg
+8.7 litres/100km",35.8 mpg,2022,180,Petrol,Audi,A4
+ Audi A4 Estate Automatic 3.0 ,21115,4WD,Estate,Automatic,3.0,341 bhp,"36.7 mpg
+7.7 litres/100km",38.7 mpg,2022,190,Diesel,Audi,A4
+ Audi A4 Estate Automatic 3.0 ,21116,4WD,Estate,Automatic,3.0,286 bhp,"37.4 mpg
+7.6 litres/100km",39.2 mpg,2022,189,Diesel,Audi,A4
+ Audi A4 Estate Automatic 2.9 ,21154,4WD,Estate,Automatic,2.9,450 bhp,"25.6 mpg
+11.0 litres/100km",28.8 mpg,2022,221,Petrol,Audi,A4
+ Audi A6 Estate Automatic 3.0 ,21163,4WD,Estate,Automatic,3.0,245 bhp,"35.9 mpg
+7.9 litres/100km",42.2 mpg,2022,176,Diesel,Audi,A6
+ Audi A6 Estate Automatic 3.0 ,21164,4WD,Estate,Automatic,3.0,286 bhp,"36.5 mpg
+7.7 litres/100km",39.8 mpg,2022,187,Diesel,Audi,A6
+ Audi A6 Estate Automatic 3.0 ,21165,4WD,Estate,Automatic,3.0,340 bhp,"29.9 mpg
+9.4 litres/100km",33.2 mpg,2022,194,Petrol,Audi,A6
+ Audi A6 Estate Automatic 2.0 ,21166,FWD,Estate,Automatic,2.0,204 bhp,"44.8 mpg
+6.3 litres/100km",50.4 mpg,2022,148,Diesel,Audi,A6
+ Audi A6 Estate Automatic 2.0 ,21167,FWD,Estate,Automatic,2.0,204 bhp,"34.1 mpg
+8.3 litres/100km",38.2 mpg,2022,168,Petrol,Audi,A6
+ Audi A6 Estate Automatic 2.0 ,21168,4WD,Estate,Automatic,2.0,204 bhp,"41.3 mpg
+6.8 litres/100km",48.7 mpg,2022,151,Diesel,Audi,A6
+ Audi A6 Estate Automatic 2.0 ,21169,4WD,Estate,Automatic,2.0,265 bhp,"32.2 mpg
+8.8 litres/100km",36.2 mpg,2022,178,Petrol,Audi,A6
+ Audi A6 Estate Automatic 3.0 ,21170,4WD,Estate,Automatic,3.0,344 bhp,"34.0 mpg
+8.3 litres/100km",39.2 mpg,2022,189,Diesel,Audi,A6
+ BMW 3Series Estate Automatic 3.0 ,20725,4WD,Estate,Automatic,3.0,462 bhp,"22.8 mpg
+12.4 litres/100km",25.9 mpg,2022,247,Petrol,BMW,3 Series
+ BMW 3Series Estate Automatic 2.0 ,21531,RWD,Estate,Automatic,2.0,156 bhp,"33.6 mpg
+8.4 litres/100km",42.2 mpg,2022,152,Petrol,BMW,3 Series
+ BMW 3Series Estate Automatic 2.0 ,21532,RWD,Estate,Automatic,2.0,184 bhp,"33.3 mpg
+8.5 litres/100km",42.2 mpg,2022,152,Petrol,BMW,3 Series
+ BMW 3Series Estate Automatic 2.0 ,21533,RWD,Estate,Automatic,2.0,258 bhp,"32.7 mpg
+8.6 litres/100km",40.9 mpg,2022,157,Petrol,BMW,3 Series
+ Ford Focus Estate Automatic 1.5 ,21408,FWD,Estate,Automatic,1.5,120 bhp,"43.8 mpg
+6.4 litres/100km",61.4 mpg,2022,123,Diesel,Ford,Focus
+ Ford Focus Estate Manual 1.0 ,21409,FWD,Estate,Manual,1.0,125 bhp,"44.2 mpg
+6.4 litres/100km",52.3 mpg,2022,125,Petrol,Ford,Focus
+ Ford Focus Estate Manual 2.3 ,21412,FWD,Estate,Manual,2.3,280 bhp,"31.9 mpg
+8.9 litres/100km",35.3 mpg,2022,183,Petrol,Ford,Focus
+ Ford Focus Estate Automatic 2.3 ,21413,FWD,Estate,Automatic,2.3,280 bhp,"31.9 mpg
+8.9 litres/100km",35.8 mpg,2022,182,Petrol,Ford,Focus
+ Ford Focus Estate Manual 1.5 ,21661,FWD,Estate,Manual,1.5,120 bhp,"43.8 mpg
+6.4 litres/100km",67.3 mpg,2022,112,Diesel,Ford,Focus
+ Ford Mondeo Estate Manual 2.0 ,21220,FWD,Estate,Manual,2.0,150 bhp,"42.0 mpg
+6.7 litres/100km",56.5 mpg,2022,135,Diesel,Ford,Mondeo
+ Ford Mondeo Estate Automatic 2.0 ,21221,FWD,Estate,Automatic,2.0,150 bhp,"42.0 mpg
+6.7 litres/100km",52.3 mpg,2022,147,Diesel,Ford,Mondeo
+ Ford Mondeo Estate Automatic 2.0 ,21222,FWD,Estate,Automatic,2.0,190 bhp,"40.7 mpg
+6.9 litres/100km",50.4 mpg,2022,152,Diesel,Ford,Mondeo
+ Ford Mondeo Estate Automatic 2.0 ,21223,4WD,Estate,Automatic,2.0,190 bhp,"37.4 mpg
+7.6 litres/100km",46.3 mpg,2022,164,Diesel,Ford,Mondeo
+ Jaguar XF Estate Automatic 2.0 ,21233,RWD,Estate,Automatic,2.0,250 bhp,"29.4 mpg
+9.6 litres/100km",33.6 mpg,2022,189,Petrol,Jaguar,XF
+ Jaguar XF Estate Automatic 2.0 ,21234,4WD,Estate,Automatic,2.0,204 bhp,"38.8 mpg
+7.3 litres/100km",47.1 mpg,2022,157,Diesel,Jaguar,XF
+ Jaguar XF Estate Automatic 2.0 ,21235,4WD,Estate,Automatic,2.0,300 bhp,"27.4 mpg
+10.3 litres/100km",29.9 mpg,2022,213,Petrol,Jaguar,XF
+ Kia Ceed Estate Manual 1.5 ,21396,FWD,Estate,Manual,1.5,160 bhp,"39.8 mpg
+7.1 litres/100km",48.7 mpg,2022,131,Petrol,Kia,Ceed
+ Kia Ceed Estate Automatic 1.5 ,21397,FWD,Estate,Automatic,1.5,160 bhp,"39.8 mpg
+7.1 litres/100km",47.9 mpg,2022,133,Petrol,Kia,Ceed
+ Kia Ceed Estate Automatic 1.6 ,21398,FWD,Estate,Automatic,1.6,204 bhp,"37.1 mpg
+7.6 litres/100km",41.5 mpg,2022,154,Petrol,Kia,Ceed
+ Kia Ceed Estate Manual 1.0 ,21402,FWD,Estate,Manual,1.0,120 bhp,"45.7 mpg
+6.2 litres/100km",53.3 mpg,2022,121,Petrol,Kia,Ceed
+ Volkswagen Passat Estate Manual 1.5 ,21004,FWD,Estate,Manual,1.5,150 bhp,"40.2 mpg
+7.0 litres/100km",44.8 mpg,2022,143,Petrol,Volkswagen,Passat
+ Volkswagen Passat Estate Automatic 1.5 ,21005,FWD,Estate,Automatic,1.5,150 bhp,"40.2 mpg
+7.0 litres/100km",44.1 mpg,2022,146,Petrol,Volkswagen,Passat
+ Volkswagen Passat Estate Automatic 2.0 ,21006,FWD,Estate,Automatic,2.0,122 bhp,"50.3 mpg
+5.6 litres/100km",57.6 mpg,2022,127,Diesel,Volkswagen,Passat
+ Volkswagen Passat Estate Manual 2.0 ,21007,FWD,Estate,Manual,2.0,150 bhp,"50.3 mpg
+5.6 litres/100km",57.6 mpg,2022,127,Diesel,Volkswagen,Passat
+ Volkswagen Passat Estate Automatic 2.0 ,21008,FWD,Estate,Automatic,2.0,150 bhp,"50.3 mpg
+5.6 litres/100km",57.6 mpg,2022,127,Diesel,Volkswagen,Passat
+ Volkswagen Passat Estate Automatic 2.0 ,21009,FWD,Estate,Automatic,2.0,200 bhp,"48.6 mpg
+5.8 litres/100km",52.3 mpg,2022,142,Diesel,Volkswagen,Passat
+ Volkswagen Golf Estate Automatic 2.0 ,21370,4WD,Estate,Automatic,2.0,320 bhp,"31.4 mpg
+9.0 litres/100km",35.8 mpg,2022,178,Petrol,Volkswagen,Golf
+ Volkswagen Golf Estate Manual 1.0 ,20971,FWD,Estate,Manual,1.0,110 bhp,"43.9 mpg
+6.4 litres/100km",51.4 mpg,2022,124,Petrol,Volkswagen,Golf
+ Volkswagen Golf Estate Manual 1.5 ,20972,FWD,Estate,Manual,1.5,130 bhp,"46.3 mpg
+6.1 litres/100km",52.3 mpg,2022,123,Petrol,Volkswagen,Golf
+ Volkswagen Golf Estate Manual 1.5 ,20973,FWD,Estate,Manual,1.5,150 bhp,"44.5 mpg
+6.3 litres/100km",49.6 mpg,2022,128,Petrol,Volkswagen,Golf
+ Volkswagen Golf Estate Automatic 2.0 ,20974,FWD,Estate,Automatic,2.0,115 bhp,"56.8 mpg
+5.0 litres/100km",62.8 mpg,2022,119,Diesel,Volkswagen,Golf
+ Volkswagen Golf Estate Manual 2.0 ,20975,FWD,Estate,Manual,2.0,115 bhp,"56.8 mpg
+5.0 litres/100km",62.8 mpg,2022,119,Diesel,Volkswagen,Golf
+ Volkswagen Golf Estate Manual 2.0 ,20976,FWD,Estate,Manual,2.0,150 bhp,"55.5 mpg
+5.1 litres/100km",61.4 mpg,2022,120,Diesel,Volkswagen,Golf
+ Volkswagen Golf Estate Automatic 2.0 ,20977,FWD,Estate,Automatic,2.0,150 bhp,"55.5 mpg
+5.1 litres/100km",60.1 mpg,2022,123,Diesel,Volkswagen,Golf
+ Volkswagen Golf Estate Automatic 2.0 ,20985,4WD,Estate,Automatic,2.0,200 bhp,"47.7 mpg
+5.9 litres/100km",50.4 mpg,2022,147,Diesel,Volkswagen,Golf
+ MINI Clubman Estate Manual 1.5 ,21567,FWD,Estate,Manual,1.5,136 bhp,"40.0 mpg
+7.1 litres/100km",47.1 mpg,2022,136,Petrol,MINI,Clubman
+ MINI Clubman Estate Automatic 1.5 ,21568,FWD,Estate,Automatic,1.5,136 bhp,"40.0 mpg
+7.1 litres/100km",47.9 mpg,2022,135,Petrol,MINI,Clubman
+ MINI Clubman Estate Manual 2.0 ,21575,FWD,Estate,Manual,2.0,178 bhp,"37.6 mpg
+7.5 litres/100km",42.2 mpg,2022,153,Petrol,MINI,Clubman
+ MINI Clubman Estate Automatic 2.0 ,21576,FWD,Estate,Automatic,2.0,178 bhp,"37.6 mpg
+7.5 litres/100km",45.6 mpg,2022,144,Petrol,MINI,Clubman
+ MINI Clubman Estate Automatic 2.0 ,21581,4WD,Estate,Automatic,2.0,306 bhp,"32.3 mpg
+8.7 litres/100km",38.2 mpg,2022,169,Petrol,MINI,Clubman
+ Mercedes-Benz CLA Estate Automatic 1.3 ,20901,FWD,Estate,Automatic,1.3,136 bhp,"38.9 mpg
+7.3 litres/100km",45.6 mpg,2022,140,Petrol,Mercedes-Benz,CLA
+ Mercedes-Benz CLA Estate Automatic 1.3 ,20902,FWD,Estate,Automatic,1.3,163 bhp,"38.6 mpg
+7.3 litres/100km",45.6 mpg,2022,141,Petrol,Mercedes-Benz,CLA
+ Mercedes-Benz CLA Estate Automatic 2.0 ,20903,FWD,Estate,Automatic,2.0,190 bhp,"48.9 mpg
+5.8 litres/100km",55.4 mpg,2022,135,Diesel,Mercedes-Benz,CLA
+ Mercedes-Benz CLA Estate Automatic 2.0 ,20904,FWD,Estate,Automatic,2.0,224 bhp,"36.7 mpg
+7.7 litres/100km",40.9 mpg,2022,157,Petrol,Mercedes-Benz,CLA
+ Mercedes-Benz CLA Estate Automatic 2.0 ,20905,4WD,Estate,Automatic,2.0,306 bhp,"29.9 mpg
+9.4 litres/100km",34.0 mpg,2022,190,Petrol,Mercedes-Benz,CLA
+ Mercedes-Benz CLA Estate Automatic 2.0 ,20906,4WD,Estate,Automatic,2.0,421 bhp,"28.4 mpg
+9.9 litres/100km",31.7 mpg,2022,203,Petrol,Mercedes-Benz,CLA
+ Subaru Outback Estate Automatic 2.5 ,21670,4WD,Estate,Automatic,2.5,169 bhp,"29.5 mpg
+9.6 litres/100km",33.0 mpg,2022,193,Petrol,Subaru,Outback
+ Volkswagen Arteon Estate Automatic 2.0 ,20250,4WD,Estate,Automatic,2.0,320 bhp,"27.6 mpg
+10.2 litres/100km",30.7 mpg,2022,209,Petrol,Volkswagen,Arteon
+ Volkswagen Arteon Estate Manual 1.5 ,20957,FWD,Estate,Manual,1.5,150 bhp,"39.3 mpg
+7.2 litres/100km",44.8 mpg,2022,143,Petrol,Volkswagen,Arteon
+ Volkswagen Arteon Estate Automatic 2.0 ,20958,FWD,Estate,Automatic,2.0,190 bhp,"35.6 mpg
+7.9 litres/100km",40.4 mpg,2022,158,Petrol,Volkswagen,Arteon
+ Volkswagen Arteon Estate Manual 2.0 ,20959,FWD,Estate,Manual,2.0,150 bhp,"48.3 mpg
+5.8 litres/100km",57.6 mpg,2022,128,Diesel,Volkswagen,Arteon
+ Volkswagen Arteon Estate Automatic 2.0 ,20960,FWD,Estate,Automatic,2.0,150 bhp,"48.3 mpg
+5.8 litres/100km",58.9 mpg,2022,127,Diesel,Volkswagen,Arteon
+ Volkswagen Arteon Estate Automatic 2.0 ,20961,FWD,Estate,Automatic,2.0,200 bhp,"47.1 mpg
+6.0 litres/100km",53.3 mpg,2022,138,Diesel,Volkswagen,Arteon
+ Volkswagen Arteon Estate Automatic 2.0 ,20962,4WD,Estate,Automatic,2.0,200 bhp,"43.3 mpg
+6.5 litres/100km",46.3 mpg,2022,160,Diesel,Volkswagen,Arteon
+ Audi A6 Estate Automatic 2.0 ,21774,FWD,Estate,Automatic,2.0,204 bhp,"34.1 mpg
+8.3 litres/100km",38.2 mpg,2023,167,Petrol,Audi,A6
+ Audi A6 Estate Automatic 2.0 ,21775,4WD,Estate,Automatic,2.0,204 bhp,"41.6 mpg
+6.8 litres/100km",48.7 mpg,2023,151,Diesel,Audi,A6
+ Audi A6 Estate Automatic 2.0 ,21778,4WD,Estate,Automatic,2.0,265 bhp,"32.3 mpg
+8.7 litres/100km",36.2 mpg,2023,178,Petrol,Audi,A6
+ Audi A6 Estate Automatic 3.0 ,21780,4WD,Estate,Automatic,3.0,344 bhp,"34.3 mpg
+8.2 litres/100km",39.2 mpg,2023,189,Diesel,Audi,A6
+ Jaguar XF Estate Automatic 2.0 ,21719,RWD,Estate,Automatic,2.0,204 bhp,"42.3 mpg
+6.7 litres/100km",51.5 mpg,2023,144,Diesel,Jaguar,XF
+ Jaguar XF Estate Automatic 2.0 ,21720,RWD,Estate,Automatic,2.0,250 bhp,"29.6 mpg
+9.5 litres/100km",32.4 mpg,2023,197,Petrol,Jaguar,XF
+ Jaguar XF Estate Automatic 2.0 ,21721,4WD,Estate,Automatic,2.0,204 bhp,"39.0 mpg
+7.2 litres/100km",47.8 mpg,2023,155,Diesel,Jaguar,XF
+ Jaguar XF Estate Automatic 2.0 ,21722,4WD,Estate,Automatic,2.0,300 bhp,"27.4 mpg
+10.3 litres/100km",29.9 mpg,2023,213,Petrol,Jaguar,XF
