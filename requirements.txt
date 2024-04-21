@@ -1,0 +1,11 @@
+
+folium
+requests
+PyQt5
+pandas
+matplotlib
+googlemaps
+lxml
+tqdm
+loguru
+Pillow
