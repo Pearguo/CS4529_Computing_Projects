@@ -375,8 +375,13 @@ class UpLoadPage(QWidget):
         self.back_main_btn = QPushButton(self)
         # self.back_main_btn = QPushButton()
         self.back_main_btn.setMaximumSize(100, 30)
+        self.back_main_btn.setGeometry(7, 1, 100, 30)
         self.back_main_btn.setText('<-Back')
         self.back_main_btn.clicked.connect(self.back_main)
+
+        self.offset_combox = QComboBox(self)
+        self.offset_combox.setGeometry(160, 1, 110, 30)
+        self.offset_combox.addItems(['0%', '+5%/-5%', '+10%/-10%'])
         # .addWidget(self.back_main_btn, alignment=Qt.AlignRight | Qt.AlignBottom)
 
     def dragEnterEvent(self, event):
@@ -399,7 +404,14 @@ class UpLoadPage(QWidget):
             self.label_1.setText('Drag a Excel file to here!')
 
     def save_file(self):
-        df, flag = analyse_file(self.file_path)
+        offset =  self.offset_combox.currentText()
+        if offset == '0%':
+            offset = 0
+        elif offset == '+5%/-5%':
+            offset = 0.5
+        else:
+            offset = 0.1
+        df, flag = analyse_file(self.file_path, offset)
         if not flag:
             return
         # df[['Distance (km)', 'CO2 Emissions (g)']] = df.apply(df_series, axis=1)
@@ -409,7 +421,7 @@ class UpLoadPage(QWidget):
             if os.path.exists(excel_file):
                 msg = QMessageBox()
                 msg.setIcon(QMessageBox.Information)
-                msg.setText("OK")
+                msg.setText("File Saved！")
                 msg.setWindowTitle("Save")
                 msg.exec_()
 

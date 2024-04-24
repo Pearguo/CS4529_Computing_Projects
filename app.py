@@ -218,7 +218,7 @@ def search_data(car_data, brand=None, class_=None, fuel=None):
         output_list.append(data)
     return output_list
 
-def analyse_file(file_path):
+def analyse_file(file_path,offset_):
   try:
     # Load the Excel file
     df = pd.read_excel(file_path)
@@ -257,10 +257,31 @@ def analyse_file(file_path):
 
         return pd.Series([distance, emissions])
 
+    def highlight_cols(s):
+
+        # Obtain the distance from the document and the actual distance
+        col1 = s.iloc[-2]
+        col2 = s.iloc[-3]
+        # Creates a list of styles with the same number of columns, initially as an empty string
+        colors = [''] * len(s)
+        # Compares distance and actual distance
+        if float(col1) > float(col2)*(1+offset_):
+            colors[-2] = 'background-color: red'
+            # colors[-3] = 'background-color: green'
+        elif float(col1) < float(col2)*(1-offset_):
+            colors[-2] = 'background-color: green'
+            # colors[-3] = 'background-color: red'
+        # return colored list by the acceptable range
+        return colors
+
     # Apply the function to each row in DataFrame
-    df[['Distance (km)', 'CO2 Emissions (g)']] = df.apply(calculate_emissions, axis=1)
+    # df[['Distance (km)', 'CO2 Emissions (g)']] = df.apply(calculate_emissions, axis=1)
+    df[['exact distance', 'CO2 Emissions (g)']] = df.apply(calculate_emissions, axis=1)
+
+    styled_df = df.style.apply(highlight_cols, axis=1)
+
     show_success_message()
-    return df, True
+    return styled_df, True
   except Exception as e:
     show_error_message(str(e))  # Call to show the error message
     return None, False
